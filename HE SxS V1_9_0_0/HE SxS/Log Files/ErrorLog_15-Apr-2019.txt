@@ -1,0 +1,987 @@
+NORMAL - Tablet Program Started - 04/15/2019 12:44:05
+ERROR - init1Button_Click_Exception - No Tablet Dock Power (CAN1) 04/15/2019 12:44:05
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:05
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:06
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:06
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:06
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:06
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:07
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:07
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:07
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:07
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:08
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:08
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:08
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:08
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:09
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:09
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:09
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:09
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:10
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:10
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:10
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:10
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:11
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:11
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:11
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:11
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:12
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:12
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:12
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:12
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:13
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:13
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:13
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:13
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:14
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:14
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:14
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:14
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:15
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:15
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:15
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:15
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:16
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:16
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:16
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:16
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:17
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:17
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:17
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:17
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:18
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:18
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:18
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:18
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:19
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:19
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:19
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:19
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:20
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:20
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:20
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:20
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:21
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:21
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:21
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:21
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:22
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:22
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:22
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:22
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:23
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:23
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:23
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:23
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:24
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:24
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:24
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:24
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:25
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:25
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:25
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:25
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:26
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:26
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:26
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:26
+ACK OK - init1Button_Click_Exception - No Tablet Dock Power (CAN1) 04/15/2019 12:44:26
+ERROR - init1Button_Click_Exception - No Tablet Dock Power (CAN2) 04/15/2019 12:44:26
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:27
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:27
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:27
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:27
+ERROR - VehicleStatusTimer_Exception - Object reference not set to an instance of an object.04/15/2019 12:44:28
+ACK OK - init1Button_Click_Exception - No Tablet Dock Power (CAN2) 04/15/2019 12:44:28
+NORMAL - Ixxat Started - 04/15/2019 12:44:28
+ERROR - mainForm_Load_Exception - Device cannot be accessed.  Possible causes:
+
+Device is no longer present in the system.
+Device is not powered.
+Device is powered, but was temporarily without power.
+Device is damaged.
+
+Ensure the device is properly connected and powered.  Turn the computer off and on again.  If you suspect that the device is damaged, contact National Instruments at ni.com/support.
+
+Device Specified: USB-6343_018D53BA
+
+Task Name: _unnamedTask<0>
+
+Status Code: -20100304/15/2019 12:44:28
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:36
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:36
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:36
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:36
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:36
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:36
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:36
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:36
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:36
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:36
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:36
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:36
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:36
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:36
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:36
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:36
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:37
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:37
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:37
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:37
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:37
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:37
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:37
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:37
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:37
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:37
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:37
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:37
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:37
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:37
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:37
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:37
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:37
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:37
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:37
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:37
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:37
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:37
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:37
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:37
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:37
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:37
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:37
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:37
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:37
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:37
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:37
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:37
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:37
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:37
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:37
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:37
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:38
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:38
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:38
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:38
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:38
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:38
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:38
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:38
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:38
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:38
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:38
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:38
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:38
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:38
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:38
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:38
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:38
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:38
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:38
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:38
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:38
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:38
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:38
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:38
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:38
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:38
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:38
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:38
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:38
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:38
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:38
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:38
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:38
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:38
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:38
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:38
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:39
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:39
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:39
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:39
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:39
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:39
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:39
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:39
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:39
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:39
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:39
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:39
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:39
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:39
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:39
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:39
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:39
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:39
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:39
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:39
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:39
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:39
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:39
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:39
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:39
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:39
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:39
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:39
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:39
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:39
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:39
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:39
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:39
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:39
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:39
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:39
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:40
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:40
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:40
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:40
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:40
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:40
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:40
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:40
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:40
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:40
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:40
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:40
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:40
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:40
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:40
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:40
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:40
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:40
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:40
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:40
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:40
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:40
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:40
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:40
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:40
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:40
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:40
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:40
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:40
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:40
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:40
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:40
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:40
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:40
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:40
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:40
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:40
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:40
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:40
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:40
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:41
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:41
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:41
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:41
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:41
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:41
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:41
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:41
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:41
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:41
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:41
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:41
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:41
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:41
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:41
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:41
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:41
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:41
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:41
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:41
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:41
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:41
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:41
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:41
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:41
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:41
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:41
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:41
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:41
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:41
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:41
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:41
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:41
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:41
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:41
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:41
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:42
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:42
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:42
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:42
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:42
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:42
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:42
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:42
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:42
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:42
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:42
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:42
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:42
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:42
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:42
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:42
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:42
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:42
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:42
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:42
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:42
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:42
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:42
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:42
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:42
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:42
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:42
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:42
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:42
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:42
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:42
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:42
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:42
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:42
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:42
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:42
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:43
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:43
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:43
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:43
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:43
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:43
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:43
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:43
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:43
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:43
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:43
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:43
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:43
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:43
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:43
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:43
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:43
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:43
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:43
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:43
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:43
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:43
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:43
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:43
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:43
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:43
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:43
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:43
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:43
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:43
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:43
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:43
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:43
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:43
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:43
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:43
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:44
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:44
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:44
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:44
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:44
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:44
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:44
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:44
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:44
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:44
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:44
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:44
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:44
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:44
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:44
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:44
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:44
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:44
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:44
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:44
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:44
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:44
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:44
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:44
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:44
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:44
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:44
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:44
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:44
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:44
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:44
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:44
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:44
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:44
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:44
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:44
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:45
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:45
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:45
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:45
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:45
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:45
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:45
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:45
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:45
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:45
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:45
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:45
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:45
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:45
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:45
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:45
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:45
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:45
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:45
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:45
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:45
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:45
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:45
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:45
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:45
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:45
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:45
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:45
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:45
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:45
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:45
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:45
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:45
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:45
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:45
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:45
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:46
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:46
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:46
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:46
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:46
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:46
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:46
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:46
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:46
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:46
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:46
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:46
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:46
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:46
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:46
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:46
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:46
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:46
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:46
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:46
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:46
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:46
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:46
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:46
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:46
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:46
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:46
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:46
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:46
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:46
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:46
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:46
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:46
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:46
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:46
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:46
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:47
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:47
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:47
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:47
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:47
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:47
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:47
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:47
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:47
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:47
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:47
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:47
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:47
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:47
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:47
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:47
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:47
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:47
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:47
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:47
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:47
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:47
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:47
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:47
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:47
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:47
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:47
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:47
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:47
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:47
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:47
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:47
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:47
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:47
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:47
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:47
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:47
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:47
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:47
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:47
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:48
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:48
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:48
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:48
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:48
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:48
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:48
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:48
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:48
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:48
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:48
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:48
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:48
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:48
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:48
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:48
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:48
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:48
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:48
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:48
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:48
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:48
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:48
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:48
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:48
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:48
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:48
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:48
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:48
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:48
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:48
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:48
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:48
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:48
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:48
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:48
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:49
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:49
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:49
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:49
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:49
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:49
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:49
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:49
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:49
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:49
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:49
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:49
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:49
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:49
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:49
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:49
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:49
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:49
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:49
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:49
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:49
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:49
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:49
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:49
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:49
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:49
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:49
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:49
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:49
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:49
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:49
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:49
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:49
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:49
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:49
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:49
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:50
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:50
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:50
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:50
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:50
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:50
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:50
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:50
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:50
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:50
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:50
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:50
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:50
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:50
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:50
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:50
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:50
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:50
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:50
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:50
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:50
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:50
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:50
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:50
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:50
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:50
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:50
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:50
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:50
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:50
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:50
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:50
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:50
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:50
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:50
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:50
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:51
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:51
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:51
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:51
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:51
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:51
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:51
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:51
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:51
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:51
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:51
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:51
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:51
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:51
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:51
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:51
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:51
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:51
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:51
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:51
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:51
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:51
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:51
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:51
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:51
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:51
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:51
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:51
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:51
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:51
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:51
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:51
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:51
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:51
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:51
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:51
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:52
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:52
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:52
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:52
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:52
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:52
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:52
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:52
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:52
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:52
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:52
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:52
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:52
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:52
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:52
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:52
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:52
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:52
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:52
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:52
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:52
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:52
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:52
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:52
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:52
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:52
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:52
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:52
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:52
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:52
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:52
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:52
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:52
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:52
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:52
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:52
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:53
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:53
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:53
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:53
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:53
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:53
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:53
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:53
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:53
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:53
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:53
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:53
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:53
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:53
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:53
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:53
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:53
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:53
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:53
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:53
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:53
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:53
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:53
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:53
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:53
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:53
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:53
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:53
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:53
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:53
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:53
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:53
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:53
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:53
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:53
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:53
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:54
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:54
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:54
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:54
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:54
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:54
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:54
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:54
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:54
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:54
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:54
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:54
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:54
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:54
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:54
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:54
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:54
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:54
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:54
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:54
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:54
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:54
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:54
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:54
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:54
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:54
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:54
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:54
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:54
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:54
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:54
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:54
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:54
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:54
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:54
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:54
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:54
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:54
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:54
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:54
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:55
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:55
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:55
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:55
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:55
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:55
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:55
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:55
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:55
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:55
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:55
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:55
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:55
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:55
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:55
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:55
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:55
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:55
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:55
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:55
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:55
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:55
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:55
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:55
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:55
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:55
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:55
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:55
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:55
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:55
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:55
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:55
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:55
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:55
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:55
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:55
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:56
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:56
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:56
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:56
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:56
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:56
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:56
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:56
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:56
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:56
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:56
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:56
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:56
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:56
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:56
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:56
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:56
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:56
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:56
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:56
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:56
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:56
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:56
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:56
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:56
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:56
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:56
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:56
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:56
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:56
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:56
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:56
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:56
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:56
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:56
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:56
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:57
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:57
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:57
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:57
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:57
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:57
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:57
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:57
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:57
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:57
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:57
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:57
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:57
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:57
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:57
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:57
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:57
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:57
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:57
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:57
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:57
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:57
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:57
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:57
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:57
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:57
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:57
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:57
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:57
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:57
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:57
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:57
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:57
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:57
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:57
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:57
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:58
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:58
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:58
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:58
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:58
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:58
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:58
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:58
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:58
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:58
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:58
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:58
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:58
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:58
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:58
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:58
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:58
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:58
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:58
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:58
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:58
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:58
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:58
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:58
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:58
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:58
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:58
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:58
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:58
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:58
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:58
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:58
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:58
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:58
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:58
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:58
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:59
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:59
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:59
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:59
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:59
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:59
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:59
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:59
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:59
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:59
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:59
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:59
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:59
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:59
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:59
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:59
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:59
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:59
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:59
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:59
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:59
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:59
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:59
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:59
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:59
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:59
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:59
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:59
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:59
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:59
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:59
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:59
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:44:59
+NORMAL - Total System SOC = 0 - 04/15/2019 12:44:59
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:44:59
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:44:59
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:45:00
+NORMAL - Total System SOC = 0 - 04/15/2019 12:45:00
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:45:00
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:45:00
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:45:00
+NORMAL - Total System SOC = 0 - 04/15/2019 12:45:00
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:45:00
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:45:00
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:45:00
+NORMAL - Total System SOC = 0 - 04/15/2019 12:45:00
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:45:00
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:45:00
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:45:00
+NORMAL - Total System SOC = 0 - 04/15/2019 12:45:00
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:45:00
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:45:00
+NORMAL - Auto SOC Generator Not Allowed - 04/15/2019 12:45:00
+NORMAL - Total System SOC = 0 - 04/15/2019 12:45:00
+NORMAL - Total Fuel Capacity = 0 - 04/15/2019 12:45:00
+NORMAL - Vehicle Speed = 0 - 04/15/2019 12:45:00
+NORMAL - Tablet Program Stopped - 04/15/2019 12:45:00

@@ -1,0 +1,69 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 3d51c1fa-6531-4ba6-8378-66c613861a49)
+
+  (paper "User" 334.01 216.002)
+
+  (title_block
+    (date "2023-05-03")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 39.37 132.08) (size 115.57 64.77)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 16ced548-a4c4-4a05-b722-8e9610f878cc)
+    (property "Sheetname" "Telemetry" (at 39.37 129.54 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "Telemetry.kicad_sch" (at 39.37 170.7646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "NR23_Schematic_v1.0"
+        (path "/3d51c1fa-6531-4ba6-8378-66c613861a49" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 195.58 132.08) (size 110.49 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6b38ef1b-89ba-46d1-8032-b895c26a5218)
+    (property "Sheetname" "BenchTop" (at 195.58 129.5034 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "BenchTop.kicad_sch" (at 195.58 168.2246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "NR23_Schematic_v1.0"
+        (path "/3d51c1fa-6531-4ba6-8378-66c613861a49" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 35.56 27.94) (size 193.04 83.82) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8302703f-65d0-4b91-aeea-6f721ab57e4c)
+    (property "Sheetname" "Tractive System" (at 35.56 25.3634 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "TractiveSystem.kicad_sch" (at 35.56 112.3446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "NR23_Schematic_v1.0"
+        (path "/3d51c1fa-6531-4ba6-8378-66c613861a49" (page "1"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

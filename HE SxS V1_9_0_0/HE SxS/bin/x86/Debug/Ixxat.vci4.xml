@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ixxat.Vci4</name>
+    </assembly>
+    <members>
+        <member name="T:Ixxat.Vci4.VciServer">
+            <summary>
+              This class represents the entry point for working with the VCI. 
+              Use <c>Instance</c> to get access to the VCI server singleton.
+            </summary>
+        </member>
+        <member name="M:Ixxat.Vci4.VciServer.LoadServer">
+            <summary>
+              Dynamically loads the platform dependent (x86, x64) server component.
+            </summary>
+            <exception cref="T:System.InvalidOperationException">
+              Loading server component failed.
+            </exception>
+        </member>
+        <member name="M:Ixxat.Vci4.VciServer.Instance">
+            <summary>
+              Returns the VCI server singleton.
+            </summary>
+            <exception cref="T:System.InvalidOperationException">
+              Loading server component failed.
+            </exception>
+        </member>
+    </members>
+</doc>

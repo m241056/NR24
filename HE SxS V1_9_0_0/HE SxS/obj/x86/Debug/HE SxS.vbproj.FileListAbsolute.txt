@@ -1,0 +1,71 @@
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\bin\x86\Debug\HE SxS.exe.config
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE SxS.vbproj.ResolveComReference.cache
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\bin\x86\Debug\HE SxS.exe.manifest
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\bin\x86\Debug\HE SxS.application
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\bin\x86\Debug\HE SxS.exe
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\bin\x86\Debug\HE SxS.pdb
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\bin\x86\Debug\HE SxS.xml
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\bin\x86\Debug\Ixxat.vci4.contract.dll
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\bin\x86\Debug\Ixxat.vci4.dll
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\bin\x86\Debug\vcinet.x86.dll
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\bin\x86\Debug\Ixxat.vci4.xml
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\bin\x86\Debug\Ixxat.vci4.contract.xml
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE SxS.vbprojResolveAssemblyReference.cache
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE SxS.vbproj.HE SxS.exe.config
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE_SxS.mainForm.resources
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE_SxS.Resources.resources
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE SxS.vbproj.GenerateResource.Cache
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE SxS.exe.licenses
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE SxS.TrustInfo.xml
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE SxS.exe.manifest
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE SxS.application
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE SxS.exe
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE SxS.xml
+C:\HE SxS\Code\HE SxS V1_7_1_0\HE SxS\obj\x86\Debug\HE SxS.pdb
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\bin\x86\Debug\HE SxS.exe.config
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE SxS.vbproj.ResolveComReference.cache
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE SxS.exe
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE SxS.xml
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE SxS.pdb
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\bin\x86\Debug\HE SxS.exe.manifest
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\bin\x86\Debug\HE SxS.application
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\bin\x86\Debug\HE SxS.exe
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\bin\x86\Debug\HE SxS.pdb
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\bin\x86\Debug\HE SxS.xml
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\bin\x86\Debug\Ixxat.vci4.contract.dll
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\bin\x86\Debug\Ixxat.vci4.dll
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\bin\x86\Debug\vcinet.x86.dll
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\bin\x86\Debug\Ixxat.vci4.xml
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\bin\x86\Debug\Ixxat.vci4.contract.xml
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE SxS.vbproj.HE SxS.exe.config
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE_SxS.mainForm.resources
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE_SxS.Resources.resources
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE SxS.vbproj.GenerateResource.Cache
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE SxS.exe.licenses
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE SxS.TrustInfo.xml
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE SxS.exe.manifest
+C:\HE SxS\Code\HE SxS V1_8_0_0\HE SxS\obj\x86\Debug\HE SxS.application
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\bin\x86\Debug\HE SxS.exe.config
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE SxS.vbproj.ResolveComReference.cache
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE SxS.exe
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE SxS.xml
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE SxS.pdb
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\bin\x86\Debug\HE SxS.exe.manifest
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\bin\x86\Debug\HE SxS.application
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\bin\x86\Debug\HE SxS.exe
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\bin\x86\Debug\HE SxS.pdb
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\bin\x86\Debug\HE SxS.xml
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\bin\x86\Debug\Ixxat.vci4.contract.dll
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\bin\x86\Debug\Ixxat.vci4.dll
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\bin\x86\Debug\vcinet.x86.dll
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\bin\x86\Debug\Ixxat.vci4.xml
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\bin\x86\Debug\Ixxat.vci4.contract.xml
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE SxS.vbprojResolveAssemblyReference.cache
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE SxS.vbproj.HE SxS.exe.config
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE_SxS.mainForm.resources
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE_SxS.Resources.resources
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE SxS.vbproj.GenerateResource.Cache
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE SxS.exe.licenses
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE SxS.TrustInfo.xml
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE SxS.exe.manifest
+C:\HE SxS\Code\HE SxS V1_9_0_0\HE SxS\obj\x86\Debug\HE SxS.application

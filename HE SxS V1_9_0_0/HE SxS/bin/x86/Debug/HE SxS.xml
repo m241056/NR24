@@ -1,0 +1,113 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HESxS
+</name>
+</assembly>
+<members>
+<member name="M:HE_SxS.DaqTask1Component.#ctor">
+	<summary>
+ Initializes a new instance of the component.
+ </summary>
+</member><member name="M:HE_SxS.DaqTask1Component.#ctor(System.ComponentModel.IContainer)">
+	<summary>
+ Initializes a new instance of the component with the specified container.
+ </summary>
+</member><member name="M:HE_SxS.DaqTask1Component.CreateTask">
+	<summary>
+ Creates the underlying DAQ task of the component.
+ </summary><returns>
+ A DAQ task that represents the DAQ task of the component.
+ </returns>
+</member><member name="M:HE_SxS.DaqTask1Component.CreateReader">
+	<summary>
+ Creates the underlying DAQ reader of the component. Also, initializes the
+ AnalogWaveform data for reading.
+ </summary><returns>
+ The DAQ reader that performs the input data acquisition operations.
+ </returns>
+</member><member name="M:HE_SxS.DaqTask1Component.BeginReadContinuous(System.AsyncCallback,System.Object)">
+	<summary>
+ Begins a continuous input data acquisition.
+ </summary><param name="callback">
+ An asynchronous callback that is called when the read is completed.
+ </param><param name="state">
+ An object that distinguishes this asynchronous read request from other
+ requests.
+ </param>
+</member><member name="M:HE_SxS.DaqTask1Component.EndReadContinuous(System.IAsyncResult)">
+	<summary>
+ Ends a continuous input acquisition.
+ </summary><param name="result">
+ An IAsyncResult that represents an asynchronous call started by
+ BeginReadContinuous.
+ </param>
+</member><member name="M:HE_SxS.DaqTask1Component.OnDataReady(HE_SxS.DaqTask1ComponentDataReadyEventArgs)">
+	<summary>
+ Raises the DataReady event.
+ </summary><param name="e">
+ The event arguments of the DataReady event.
+ </param>
+</member><member name="E:HE_SxS.DaqTask1Component.DataReady">
+	<summary>
+ Occurs when data has been read from a continuous input data acquisition.
+ </summary>
+</member><member name="T:HE_SxS.DaqTask1Component">
+	<summary>
+ Defines a DAQ component that performs continuous input data acquisition
+ operations.
+ </summary>
+</member><member name="M:HE_SxS.DaqTask1ComponentDataReadyEventArgs.#ctor(NationalInstruments.AnalogWaveform{System.Double}[])">
+	<summary>
+ Initializes a new instance of the DataReady event arguments.
+ </summary><param name="data">
+ The data that was acquired from a continuous input data acquisition.
+ </param>
+</member><member name="T:HE_SxS.DaqTask1ComponentDataReadyEventArgs">
+	<summary>
+ Provides data for the DataReady event.
+ </summary>
+</member><member name="E:HE_SxS.DaqTask1Component.ReadCompleted">
+	<summary>
+ This member supports compatibility with code that is generated with a
+ different timing mode and is not intended to be used directly from your code.
+ </summary>
+</member><member name="M:HE_SxS.DaqTask1ComponentReadCompletedEventArgs.#ctor(System.Object)">
+	<summary>
+ This member supports compatibility with code that is generated with a
+ different timing mode and is not intended to be used directly from your code.
+ </summary>
+</member><member name="T:HE_SxS.DaqTask1ComponentReadCompletedEventArgs">
+	<summary>
+ This type supports compatibility with code that is generated with a
+ different timing mode and is not intended to be used directly from your code.
+ </summary>
+</member><member name="P:HE_SxS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HE_SxS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:HE_SxS.My.Resources.Resources.Green_animated_arrow_right">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HE_SxS.My.Resources.Resources.Green_animated_arrow_up">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HE_SxS.My.Resources.Resources.Red_animated_arrow_down">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:HE_SxS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
