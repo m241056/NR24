@@ -1904,9 +1904,9 @@
     (property "Datasheet" "~" (at 330.2 220.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "3" (uuid 375a16cb-7474-4b57-8062-e7d60cb3d428))
-    (pin "2" (uuid d357d51d-dca6-4802-8649-f8c8d145590c))
     (pin "1" (uuid 8f885893-42dd-4658-ac74-8e9a62c615ef))
+    (pin "2" (uuid d357d51d-dca6-4802-8649-f8c8d145590c))
+    (pin "3" (uuid 375a16cb-7474-4b57-8062-e7d60cb3d428))
     (instances
       (project "Car_TractiveSystem_v2"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
