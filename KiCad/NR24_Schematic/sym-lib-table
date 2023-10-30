@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NR24_Car")(type "KiCad")(uri "${KIPRJMOD}/NR24_Car.kicad_sym")(options "")(descr ""))
+)
