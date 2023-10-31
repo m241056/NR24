@@ -326,8 +326,8 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1a1dc65b-7c7f-4874-8065-a8e7ca0d81b7))
-    (pin "" (uuid 0a352f54-351e-4cd7-b8ca-df8f7add4aa3))
-    (pin "" (uuid 0a352f54-351e-4cd7-b8ca-df8f7add4aa3))
+    (pin "" (uuid 0a352f54-351e-4cd7-b8ca-df8f7add4aa4))
+    (pin "" (uuid 0a352f54-351e-4cd7-b8ca-df8f7add4aa4))
     (pin "2" (uuid 6c520bdd-9ef4-4ad0-89c9-00ea172453f8))
     (instances
       (project "Car_TractiveSystem_v2"
