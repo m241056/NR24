@@ -1,0 +1,20 @@
+AMS
+-what can be sent through CAN
+-what is an input and what is an output
+-same ground?
+
+IMD
+-label relay correctly*
+-at least two grounds (high voltage ground and low voltage ground)
+-is it connected directly to the high voltage?? check rules
+
+Tractive System
+-voltage to pedal
+-brake pressure sensor
+-
+-
+
+Dash
+-wiring work
+-
+-
