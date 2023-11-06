@@ -505,8 +505,8 @@
     (pin "2" (uuid af50c9ab-017b-432a-9fb9-f9851ef98238))
     (instances
       (project "Car_TractiveSystem_v2"
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/bd0f359d-54a3-4689-98a4-b95a5e1e6024"
-          (reference "D1") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e2e432a9-5b6b-4c89-928a-9fdcb2cd11e0"
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -534,11 +534,8 @@
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW?") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "SW7") (unit 1)
-        )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/bd0f359d-54a3-4689-98a4-b95a5e1e6024"
-          (reference "SW8") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e2e432a9-5b6b-4c89-928a-9fdcb2cd11e0"
+          (reference "SW9") (unit 1)
         )
       )
     )
@@ -559,10 +556,10 @@
     (property "Datasheet" "" (at 67.31 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3a1a44e0-4d03-4288-b0d2-c99b87a070fe))
-    (pin "1" (uuid 3a1a44e0-4d03-4288-b0d2-c99b87a070fe))
-    (pin "2" (uuid b30444d8-abdf-4a90-80cc-44118a5c1e71))
-    (pin "2" (uuid b30444d8-abdf-4a90-80cc-44118a5c1e71))
+    (pin "1" (uuid 3a1a44e0-4d03-4288-b0d2-c99b87a070fc))
+    (pin "1" (uuid 3a1a44e0-4d03-4288-b0d2-c99b87a070fc))
+    (pin "2" (uuid b30444d8-abdf-4a90-80cc-44118a5c1e6f))
+    (pin "2" (uuid b30444d8-abdf-4a90-80cc-44118a5c1e6f))
     (pin "3" (uuid e0530b5c-4fa9-41bc-8668-8396b2772151))
     (pin "4" (uuid 7ac2d8cc-9973-42f4-82b3-b943e3f6c218))
     (pin "5" (uuid e3490414-46a3-4bb4-9dfb-4298dfb38477))
@@ -574,11 +571,8 @@
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U?") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e2e432a9-5b6b-4c89-928a-9fdcb2cd11e0"
           (reference "U4") (unit 1)
-        )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/bd0f359d-54a3-4689-98a4-b95a5e1e6024"
-          (reference "U5") (unit 1)
         )
       )
     )
@@ -615,11 +609,8 @@
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U?") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "3_WAY_SPDT") (unit 1)
-        )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/bd0f359d-54a3-4689-98a4-b95a5e1e6024"
-          (reference "U3") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e2e432a9-5b6b-4c89-928a-9fdcb2cd11e0"
+          (reference "U6") (unit 1)
         )
       )
     )

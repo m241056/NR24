@@ -263,6 +263,385 @@
         )
       )
     )
+    (symbol "JW2_1" (in_bom yes) (on_board yes)
+      (property "Reference" "RL1" (at -1.905 -24.765 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Value" "JW2" (at -1.905 -27.305 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Footprint" "Relay_THT:Relay_DPDT_Panasonic_JW2" (at -15.24 -31.75 0)
+        (effects (font (size 1.27 1.27)) (justify left) hide)
+      )
+      (property "Datasheet" "http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok" (at 1.27 -29.845 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "Panasonic Relay Dual Pole" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "General Purpose Relay DPDT (2 Form C) Through Hole, Panasonic JW series" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_fp_filters" "Relay*DPDT*Panasonic*JW2*" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "JW2_1_0_1"
+        (rectangle (start -5.08 17.78) (end 5.08 -22.86)
+          (stroke (width 0.254) (type default))
+          (fill (type background))
+        )
+        (polyline
+          (pts
+            (xy -5.08 12.7)
+            (xy -1.905 12.7)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.54 -17.78)
+            (xy -5.08 -17.78)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.54 -17.78)
+            (xy 3.81 -15.875)
+          )
+          (stroke (width 0.508) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.54 -7.62)
+            (xy -5.08 -7.62)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.54 -7.62)
+            (xy 3.81 -5.715)
+          )
+          (stroke (width 0.508) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.54 2.54)
+            (xy -5.08 2.54)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.54 2.54)
+            (xy 3.81 4.445)
+          )
+          (stroke (width 0.508) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.905 15.24)
+            (xy 1.905 10.16)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -15.875)
+            (xy 0 -16.51)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -14.605)
+            (xy 0 -15.24)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -13.335)
+            (xy 0 -13.97)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -12.065)
+            (xy 0 -12.7)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -10.795)
+            (xy 0 -11.43)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -9.525)
+            (xy 0 -10.16)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -8.255)
+            (xy 0 -8.89)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -6.985)
+            (xy 0 -7.62)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -5.715)
+            (xy 0 -6.35)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -4.445)
+            (xy 0 -5.08)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -3.175)
+            (xy 0 -3.81)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -1.905)
+            (xy 0 -2.54)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -0.635)
+            (xy 0 -1.27)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 0.635)
+            (xy 0 0)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 1.905)
+            (xy 0 1.27)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 3.175)
+            (xy 0 2.54)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 4.445)
+            (xy 0 3.81)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 5.715)
+            (xy 0 5.08)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 6.985)
+            (xy 0 6.35)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 8.255)
+            (xy 0 7.62)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 9.525)
+            (xy 0 8.89)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 5.08 12.7)
+            (xy 1.905 12.7)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 5.08 -20.32)
+            (xy 2.54 -20.32)
+            (xy 3.175 -19.685)
+            (xy 3.81 -20.32)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 5.08 -15.24)
+            (xy 2.54 -15.24)
+            (xy 3.175 -15.875)
+            (xy 3.81 -15.24)
+          )
+          (stroke (width 0) (type default))
+          (fill (type outline))
+        )
+        (polyline
+          (pts
+            (xy 5.08 -10.16)
+            (xy 2.54 -10.16)
+            (xy 3.175 -9.525)
+            (xy 3.81 -10.16)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 5.08 -5.08)
+            (xy 2.54 -5.08)
+            (xy 3.175 -5.715)
+            (xy 3.81 -5.08)
+          )
+          (stroke (width 0) (type default))
+          (fill (type outline))
+        )
+        (polyline
+          (pts
+            (xy 5.08 0)
+            (xy 2.54 0)
+            (xy 3.175 0.635)
+            (xy 3.81 0)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 5.08 5.08)
+            (xy 2.54 5.08)
+            (xy 3.175 4.445)
+            (xy 3.81 5.08)
+          )
+          (stroke (width 0) (type default))
+          (fill (type outline))
+        )
+        (rectangle (start 1.905 15.875) (end -1.905 9.525)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+      )
+      (symbol "JW2_1_1_1"
+        (pin passive line (at 7.62 12.7 180) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+        (pin output line (at 7.62 -20.32 180) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "10" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -7.62 12.7 0) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "11" (effects (font (size 1.27 1.27))))
+        )
+        (pin output line (at 7.62 5.08 180) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
+        )
+        (pin input line (at -7.62 2.54 0) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "3" (effects (font (size 1.27 1.27))))
+        )
+        (pin output line (at 7.62 0 180) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "4" (effects (font (size 1.27 1.27))))
+        )
+        (pin output line (at 7.62 -5.08 180) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "5" (effects (font (size 1.27 1.27))))
+        )
+        (pin input line (at -7.62 -7.62 0) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "6" (effects (font (size 1.27 1.27))))
+        )
+        (pin output line (at 7.62 -10.16 180) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "7" (effects (font (size 1.27 1.27))))
+        )
+        (pin output line (at 7.62 -15.24 180) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "8" (effects (font (size 1.27 1.27))))
+        )
+        (pin input line (at -7.62 -17.78 0) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "9" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
     (symbol "Sevcon_Gen4_Size6_1" (in_bom yes) (on_board yes)
       (property "Reference" "U4" (at -10.16 17.78 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -500,14 +879,14 @@
     )
   )
 
+  (junction (at 172.72 148.59) (diameter 0) (color 0 0 0 0)
+    (uuid 03f74b4b-bb52-45ba-8f04-32f5fdceb67a)
+  )
   (junction (at 252.73 77.47) (diameter 0) (color 0 0 0 0)
     (uuid 14ca57f8-0f17-46b3-8857-bf9dc87fecae)
   )
   (junction (at 199.39 148.59) (diameter 0) (color 0 0 0 0)
     (uuid 34bc4e5e-9171-4ddf-8cee-9b99e2295d1b)
-  )
-  (junction (at 199.39 142.24) (diameter 0) (color 0 0 0 0)
-    (uuid 4608de86-1f8a-4fa7-ad58-318f0a53db78)
   )
   (junction (at 91.44 38.1) (diameter 0) (color 0 0 0 0)
     (uuid 4dccd856-4d76-497c-9478-edcb01da9a81)
@@ -715,6 +1094,10 @@
     (stroke (width 0) (type default))
     (uuid 4e6164e6-80be-46bf-ad49-26ab2ef0e387)
   )
+  (wire (pts (xy 193.04 134.62) (xy 227.33 134.62))
+    (stroke (width 0) (type default))
+    (uuid 536019fc-1564-41d0-b8d8-ab245c008f33)
+  )
   (wire (pts (xy 15.24 191.77) (xy 172.72 191.77))
     (stroke (width 0) (type default))
     (uuid 53a7217f-9daf-4f2d-9f7e-ea6fdb935d8a)
@@ -792,7 +1175,7 @@
     (stroke (width 1) (type default))
     (uuid 75a71708-4153-44c2-bdc3-467bef2c09d1)
   )
-  (wire (pts (xy 170.18 146.05) (xy 175.26 146.05))
+  (wire (pts (xy 170.18 146.05) (xy 193.04 146.05))
     (stroke (width 0) (type default))
     (uuid 761113ac-3bf4-4b6c-848e-6580e9976ecb)
   )
@@ -811,10 +1194,6 @@
   (wire (pts (xy 74.93 143.51) (xy 78.74 143.51))
     (stroke (width 0) (type default))
     (uuid 7fba8195-5feb-4903-b8b1-d71ed75817f7)
-  )
-  (wire (pts (xy 172.72 142.24) (xy 199.39 142.24))
-    (stroke (width 0) (type default))
-    (uuid 82e806c8-9fa4-4568-b89b-d5401f4ad9a9)
   )
   (wire (pts (xy 105.41 139.7) (xy 105.41 158.75))
     (stroke (width 0) (type default) (color 132 0 0 1))
@@ -844,7 +1223,11 @@
     (stroke (width 0) (type default))
     (uuid 9806a603-49f2-487f-aa1e-aeb4119660c1)
   )
-  (wire (pts (xy 172.72 120.65) (xy 172.72 142.24))
+  (wire (pts (xy 193.04 146.05) (xy 193.04 134.62))
+    (stroke (width 0) (type default))
+    (uuid 9bb7a14a-da01-4297-af78-ce0a08ccc5ea)
+  )
+  (wire (pts (xy 172.72 120.65) (xy 172.72 148.59))
     (stroke (width 0) (type default))
     (uuid 9c1d8190-f3c6-4385-b0db-ca0a024fe6c6)
   )
@@ -1039,13 +1422,13 @@
     (uuid 7929a746-291a-470b-a1aa-9eea73ea3a9f)
   )
 
+  (label "AMS Fault" (at 175.26 148.59 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6d14c86a-f95f-4c62-b3c4-d0990e4b410e)
+  )
   (label "CAN_Low" (at 105.41 102.87 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9eef727e-e713-4247-b991-da3a4407480a)
-  )
-  (label "AMS Fault" (at 173.99 142.24 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid a65588c1-c2af-465c-8fb6-af4b7f97fdf7)
   )
   (label "CAN_Ground" (at 109.22 106.68 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1060,10 +1443,6 @@
     (uuid e44beaf5-7e70-4c37-908b-107ea8f435cf)
   )
 
-  (hierarchical_label "STDWN_CT_IN1" (shape input) (at 227.33 134.62 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 08c91d5f-b794-41ce-8960-cd4cf4c45239)
-  )
   (hierarchical_label "LV_pwr" (shape input) (at 105.41 158.75 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold (color 255 0 0 1)) (justify right))
     (uuid 139f7c38-65d4-4c41-b5bf-48c42d40fd8c)
@@ -1083,10 +1462,6 @@
   (hierarchical_label "Charge Sig" (shape input) (at 78.74 160.02 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 2c5c27bc-bbda-42c8-8ab5-a1f3c24551ca)
-  )
-  (hierarchical_label "STDWN_CT_OUT1" (shape input) (at 175.26 146.05 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 2ff08fa6-49b2-495d-b3ff-e89242687018)
   )
   (hierarchical_label "GND" (shape input) (at 166.37 31.75 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
@@ -1160,10 +1535,10 @@
     (property "Datasheet" "" (at 125.73 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fcc6d9ea-9c6d-408c-b778-cf4601958001))
-    (pin "1" (uuid fcc6d9ea-9c6d-408c-b778-cf4601958001))
-    (pin "2" (uuid 8a11e7c2-37bd-4f0c-81c7-656a96d5c9b3))
-    (pin "2" (uuid 8a11e7c2-37bd-4f0c-81c7-656a96d5c9b3))
+    (pin "1" (uuid fcc6d9ea-9c6d-408c-b778-cf4601957fff))
+    (pin "1" (uuid fcc6d9ea-9c6d-408c-b778-cf4601957fff))
+    (pin "2" (uuid 8a11e7c2-37bd-4f0c-81c7-656a96d5c9b1))
+    (pin "2" (uuid 8a11e7c2-37bd-4f0c-81c7-656a96d5c9b1))
     (pin "3" (uuid 05a979b1-4984-47cf-aa86-36ebd79faa7c))
     (pin "4" (uuid b4b7df9f-5304-42a3-a62b-6fbd98d8f2d9))
     (pin "5" (uuid 363008b2-8c5e-4e4e-8f2b-aae94052b787))
@@ -1175,11 +1550,8 @@
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U?") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "U9") (unit 1)
-        )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/bd0f359d-54a3-4689-98a4-b95a5e1e6024"
-          (reference "U5") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "U13") (unit 1)
         )
       )
     )
@@ -1210,11 +1582,43 @@
     (pin "2" (uuid 1b22930e-ecdb-4246-93d2-9ad94fbd0b73))
     (instances
       (project "Car_TractiveSystem_v2"
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/bd0f359d-54a3-4689-98a4-b95a5e1e6024"
-          (reference "D1") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "D7") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "D4") (unit 1)
+      )
+    )
+  )
+
+  (symbol (lib_name "JW2_1") (lib_id "Relay:JW2") (at 274.32 44.45 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 255cc46a-70e9-421f-aead-60a7ef6b10a1)
+    (property "Reference" "RL2" (at 272.415 69.215 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "JW2" (at 272.415 71.755 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Relay_THT:Relay_DPDT_Panasonic_JW2" (at 259.08 76.2 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Datasheet" "http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok" (at 275.59 74.295 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2f236e08-7919-4e71-bee9-0cddfe79b4cc))
+    (pin "10" (uuid d600af5f-47de-451a-b7e9-3bf73747b57d))
+    (pin "11" (uuid f3080ef4-0c7e-48e8-a79b-54559e9f3c76))
+    (pin "2" (uuid 37110169-e55e-4c7d-9a70-4df3844593fd))
+    (pin "3" (uuid cb4e58b0-24a5-44c9-813b-7d29eb1dfa08))
+    (pin "4" (uuid aa79aff5-6a3b-49b6-9c9c-b6f9f5c23cbc))
+    (pin "5" (uuid 8b1b30f3-e4d1-4121-aba6-e279c2db0d2c))
+    (pin "6" (uuid 1947b0d4-b0af-4598-acc0-24245af94f25))
+    (pin "7" (uuid 4100638d-0038-4e9e-afbb-da094448fe5a))
+    (pin "8" (uuid 341310df-94b9-4ed2-bdde-89cc1d01d356))
+    (pin "9" (uuid 3ca75417-e2b6-4c6d-8e3f-e9e75667a8af))
+    (instances
+      (project "Car_TractiveSystem_v2"
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "RL2") (unit 1)
         )
       )
     )
@@ -1242,11 +1646,8 @@
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW?") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "SW10") (unit 1)
-        )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/bd0f359d-54a3-4689-98a4-b95a5e1e6024"
-          (reference "SW8") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "SW11") (unit 1)
         )
       )
     )
@@ -1258,7 +1659,7 @@
     (property "Reference" "U?" (at 241.3 113.03 0)
       (effects (font (size 2 2)) hide)
     )
-    (property "Value" "Grainger Relay" (at 252.73 151.13 0)
+    (property "Value" "LY3 DC12 (Relay)" (at 252.73 151.13 0)
       (effects (font (size 1.27 1.27)) (justify right top))
     )
     (property "Footprint" "" (at 228.6 147.32 0)
@@ -1283,11 +1684,43 @@
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U?") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "U8") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "U15") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/bd0f359d-54a3-4689-98a4-b95a5e1e6024"
-          (reference "U3") (unit 1)
+      )
+    )
+  )
+
+  (symbol (lib_name "JW2_1") (lib_id "Relay:JW2") (at 275.59 99.06 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 4d4c05a4-2566-4dd0-83a0-19a266a49934)
+    (property "Reference" "RL1" (at 273.685 123.825 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "JW2" (at 273.685 126.365 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Relay_THT:Relay_DPDT_Panasonic_JW2" (at 260.35 130.81 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Datasheet" "http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok" (at 276.86 128.905 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid cec0c84b-2fea-4688-a6f9-e5c6ca775c6a))
+    (pin "2" (uuid 7d1dd3a9-5155-4dd9-a018-cf020ac66e25))
+    (pin "3" (uuid 5fa668c4-efe9-49c5-bc44-f7c35e03a944))
+    (pin "4" (uuid ca96877e-6a52-4db6-b269-5c6ae57ae25d))
+    (pin "10" (uuid 0e37252f-96cd-47a7-a9b4-72b27152577a))
+    (pin "7" (uuid ae2a04f6-d059-4a99-83b8-0fd89282b5ad))
+    (pin "9" (uuid 94124646-9d05-4c23-920a-ef11b252c9ed))
+    (pin "6" (uuid 55e073c4-f77d-4955-83d9-2d6765ecc3ea))
+    (pin "8" (uuid 0d1f31ce-a698-43c5-a817-56cdda32416c))
+    (pin "5" (uuid cff10e8c-1ef0-4002-baaa-a2133632f9af))
+    (pin "11" (uuid 1921e36c-1801-4498-be7c-d513bb9f474c))
+    (instances
+      (project "Car_TractiveSystem_v2"
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "RL1") (unit 1)
         )
       )
     )
@@ -1315,11 +1748,8 @@
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW?") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "SW9") (unit 1)
-        )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/bd0f359d-54a3-4689-98a4-b95a5e1e6024"
-          (reference "SW8") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "SW12") (unit 1)
         )
       )
     )
@@ -1344,8 +1774,8 @@
     (pin "2" (uuid acb61140-a2f4-4ba7-9c15-456b15b3dbce))
     (instances
       (project "Car_TractiveSystem_v2"
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "BT2") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "BT4") (unit 1)
         )
       )
     )
@@ -1357,7 +1787,7 @@
     (property "Reference" "U?" (at 234.95 41.91 0)
       (effects (font (size 2 2)) hide)
     )
-    (property "Value" "Grainger Relay" (at 246.38 85.09 0)
+    (property "Value" "LY3 DC12 (Relay)" (at 246.38 85.09 0)
       (effects (font (size 1.27 1.27)) (justify right top))
     )
     (property "Footprint" "" (at 222.25 81.28 0)
@@ -1382,11 +1812,8 @@
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U?") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "U10") (unit 1)
-        )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/bd0f359d-54a3-4689-98a4-b95a5e1e6024"
-          (reference "U3") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "U14") (unit 1)
         )
       )
     )
@@ -1411,8 +1838,8 @@
     (pin "2" (uuid 2d8ac674-6984-4243-99be-f13e90c23143))
     (instances
       (project "Car_TractiveSystem_v2"
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "BT1") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "BT3") (unit 1)
         )
       )
     )
@@ -1458,8 +1885,8 @@
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U?") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "U6") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "U12") (unit 1)
         )
       )
     )
@@ -1505,8 +1932,8 @@
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U?") (unit 1)
         )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "U4") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "U11") (unit 1)
         )
       )
     )
@@ -1537,11 +1964,8 @@
     (pin "2" (uuid b9063ad9-f111-4e1e-85ab-c0ae6be18d9e))
     (instances
       (project "Car_TractiveSystem_v2"
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/bd0f359d-54a3-4689-98a4-b95a5e1e6024"
-          (reference "D1") (unit 1)
-        )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/e4490b15-8d64-4c6b-989b-1c2488feee21"
-          (reference "D5") (unit 1)
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
+          (reference "D6") (unit 1)
         )
       )
     )
