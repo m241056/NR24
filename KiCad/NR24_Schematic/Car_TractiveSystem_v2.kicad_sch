@@ -2697,6 +2697,23 @@
     )
   )
 
+  (sheet (at 29.21 238.76) (size 22.86 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0f310f4a-0260-43da-aff0-c6bb29799d15)
+    (property "Sheetname" "Battery_Low_Side" (at 29.21 238.0484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Batter_Low_Side.kicad_sch" (at 29.21 260.9346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Car_TractiveSystem_v2"
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3" (page "6"))
+      )
+    )
+  )
+
   (sheet (at 201.93 137.16) (size 73.66 19.05)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
