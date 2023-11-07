@@ -1123,9 +1123,13 @@
     (uuid fe17c299-00b0-4314-9472-2c5bb56cac1f)
   )
 
-  (text "|\\--/|\n| o_o |\n \\_ ^_/" (at 74.93 29.21 0)
+  (text "|\\--/|\n| o_o |\n \\_ ^_/" (at 12.7 27.94 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 384f6d12-3834-4b4e-82a0-7bd49b648837)
+  )
+  (text "DASH" (at 82.55 41.91 0)
+    (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
+    (uuid eab13f0d-5dab-4a1a-97da-82c0fbc6b635)
   )
 
   (label "Dash +12V" (at 184.15 119.38 0) (fields_autoplaced)
