@@ -1029,7 +1029,7 @@
     (effects (font (size 1.27 1.27) bold) (justify left))
     (uuid b76cfde4-ace4-4b44-86ed-7b6eeb5acd4c)
   )
-  (hierarchical_label "LV_pwr" (shape input) (at 78.74 77.47 90) (fields_autoplaced)
+  (hierarchical_label "LV_High" (shape input) (at 78.74 77.47 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold (color 255 0 0 1)) (justify left))
     (uuid bc0ba860-aa85-46cf-81c5-acf229451d07)
   )
