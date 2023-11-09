@@ -1127,7 +1127,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 384f6d12-3834-4b4e-82a0-7bd49b648837)
   )
-  (text "DASH" (at 82.55 41.91 0)
+  (text "DASH" (at 134.62 58.42 0)
     (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
     (uuid eab13f0d-5dab-4a1a-97da-82c0fbc6b635)
   )
