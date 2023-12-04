@@ -660,66 +660,6 @@
         )
       )
     )
-    (symbol "power:Earth" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
-      (property "Reference" "#PWR" (at 0 -6.35 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "Value" "Earth" (at 0 -3.81 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "Footprint" "" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "Datasheet" "~" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_keywords" "global ground gnd" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_description" "Power symbol creates a global label with name \"Earth\"" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (symbol "Earth_0_1"
-        (polyline
-          (pts
-            (xy -0.635 -1.905)
-            (xy 0.635 -1.905)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -0.127 -2.54)
-            (xy 0.127 -2.54)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 0 -1.27)
-            (xy 0 0)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 1.27 -1.27)
-            (xy -1.27 -1.27)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-      )
-      (symbol "Earth_1_1"
-        (pin power_in line (at 0 0 270) (length 0) hide
-          (name "Earth" (effects (font (size 1.27 1.27))))
-          (number "1" (effects (font (size 1.27 1.27))))
-        )
-      )
-    )
   )
 
   (junction (at 100.33 72.39) (diameter 0) (color 0 0 0 0)
@@ -865,7 +805,7 @@
     (stroke (width 0) (type default))
     (uuid 348a15f3-6687-4732-9551-769c99f696ee)
   )
-  (wire (pts (xy 187.96 46.99) (xy 187.96 54.61))
+  (wire (pts (xy 187.325 46.99) (xy 187.325 54.61))
     (stroke (width 0) (type default))
     (uuid 3836d32a-cb84-4433-9f79-0c3e0ec2519f)
   )
@@ -882,7 +822,7 @@
     (stroke (width 0) (type default))
     (uuid 41944136-3f0d-4b0c-a82e-b22373fbe97f)
   )
-  (wire (pts (xy 217.17 35.56) (xy 213.36 35.56))
+  (wire (pts (xy 217.17 35.56) (xy 212.09 35.56))
     (stroke (width 0) (type default))
     (uuid 47620463-ad2f-4567-a8bb-495918003c37)
   )
@@ -928,11 +868,11 @@
     (stroke (width 0) (type default))
     (uuid 711db5d4-f09e-4425-b990-5749197ef87c)
   )
-  (wire (pts (xy 187.96 54.61) (xy 203.2 54.61))
+  (wire (pts (xy 187.325 54.61) (xy 203.2 54.61))
     (stroke (width 0) (type default))
     (uuid 71f6a1fb-c913-4549-84cb-0b3af6734b7b)
   )
-  (wire (pts (xy 193.04 46.99) (xy 187.96 46.99))
+  (wire (pts (xy 191.77 46.99) (xy 187.325 46.99))
     (stroke (width 0) (type default))
     (uuid 72cf3f75-6553-4648-9211-70405b0c1513)
   )
@@ -974,7 +914,7 @@
     (stroke (width 0) (type default))
     (uuid 883a5d71-a61f-4d51-a3e8-ed0411cb5d1a)
   )
-  (wire (pts (xy 198.12 43.18) (xy 213.36 43.18))
+  (wire (pts (xy 197.485 43.18) (xy 213.36 43.18))
     (stroke (width 0) (type default))
     (uuid 89fc8d38-d7b8-4cba-b67e-2d8ac6102c1a)
   )
@@ -982,7 +922,7 @@
     (stroke (width 0) (type default))
     (uuid 8baf3058-84df-4373-acda-ad39a315493e)
   )
-  (wire (pts (xy 207.01 24.13) (xy 207.01 31.75))
+  (wire (pts (xy 205.74 24.13) (xy 205.74 31.75))
     (stroke (width 0) (type default))
     (uuid 8c1c6e4a-de4d-4fb4-9ceb-c9292b35e57f)
   )
@@ -1011,11 +951,11 @@
     (stroke (width 0) (type default))
     (uuid 989eb5e6-315c-4ae4-b769-4a219df74ac7)
   )
-  (wire (pts (xy 198.12 35.56) (xy 198.12 43.18))
+  (wire (pts (xy 197.485 35.56) (xy 197.485 43.18))
     (stroke (width 0) (type default))
     (uuid 98dea44c-744a-440d-b02f-cb2beb043084)
   )
-  (wire (pts (xy 222.25 24.13) (xy 224.79 24.13))
+  (wire (pts (xy 220.345 24.13) (xy 224.79 24.13))
     (stroke (width 0) (type default))
     (uuid 9b017875-5602-45ec-8f60-37975076f3c0)
   )
@@ -1028,7 +968,7 @@
     (uuid aac4f6b0-4f5d-4f0b-ab86-2462fde59574)
   )
 
-  (wire (pts (xy 207.01 46.99) (xy 203.2 46.99))
+  (wire (pts (xy 207.01 46.99) (xy 201.93 46.99))
     (stroke (width 0) (type default))
     (uuid aeb18110-7f07-43c9-92d6-bba70818f4d1)
   )
@@ -1049,11 +989,11 @@
     (stroke (width 0) (type default))
     (uuid c2071c41-0002-4508-a43a-92d41fbc9412)
   )
-  (wire (pts (xy 212.09 24.13) (xy 207.01 24.13))
+  (wire (pts (xy 210.185 24.13) (xy 205.74 24.13))
     (stroke (width 0) (type default))
     (uuid c2a3ae01-6564-451b-99ac-69851cccdff3)
   )
-  (wire (pts (xy 207.01 31.75) (xy 222.25 31.75))
+  (wire (pts (xy 205.74 31.75) (xy 222.25 31.75))
     (stroke (width 0) (type default))
     (uuid c6067de8-d3c0-4f54-a7b1-657674021ce4)
   )
@@ -1078,7 +1018,7 @@
     (stroke (width 0) (type default))
     (uuid d82d4332-af85-4ef2-84de-b93fcbe551df)
   )
-  (wire (pts (xy 203.2 35.56) (xy 198.12 35.56))
+  (wire (pts (xy 201.93 35.56) (xy 197.485 35.56))
     (stroke (width 0) (type default))
     (uuid d9c5a523-53fd-4db0-a121-ca28c24d95e3)
   )
@@ -1181,6 +1121,10 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 62393e4e-5755-49c4-b684-b299c2c9212b)
   )
+  (hierarchical_label "GND" (shape input) (at 187.96 129.54 270) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 708cbea6-702f-46ab-ba9b-695e098b04d3)
+  )
   (hierarchical_label "CAN_Data" (shape input) (at 231.14 66.04 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid b4ec27f9-9c7e-4d7c-8c6c-6e959a99130b)
@@ -1204,7 +1148,7 @@
     (pin "1" (uuid 4b577692-5aee-4506-893a-a32651d1c2bb))
     (pin "2" (uuid 9e9d35e3-9024-4dce-80eb-96f4902eb62a))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA3") (unit 1)
         )
@@ -1233,7 +1177,7 @@
     (pin "1" (uuid b1ed6c20-2e0b-4989-92f9-a860dd6c2184))
     (pin "2" (uuid 231dcb64-0cb3-4964-b9c4-c1749edbb8ca))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW5") (unit 1)
         )
@@ -1262,7 +1206,7 @@
     (pin "1" (uuid 6d4e5ab8-9f95-4905-88e3-29625160d177))
     (pin "2" (uuid 0776d98b-1d4f-4740-ac1e-35fdf5121a82))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA2") (unit 1)
         )
@@ -1273,25 +1217,25 @@
     )
   )
 
-  (symbol (lib_name "Lamp_2") (lib_id "Device:Lamp") (at 187.96 48.26 0) (mirror y) (unit 1)
+  (symbol (lib_name "Lamp_2") (lib_id "Device:Lamp") (at 186.69 48.26 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3745b3a4-e072-4cbe-bffd-058a4c97a880)
-    (property "Reference" "LA2" (at 191.77 45.72 0)
+    (property "Reference" "LA2" (at 190.5 45.72 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "AMS Fault Batt L" (at 189.23 50.8 0)
+    (property "Value" "AMS Fault Batt L" (at 187.96 50.8 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 195.58 46.99 0)
+    (property "Footprint" "" (at 194.31 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 195.58 46.99 0)
+    (property "Datasheet" "~" (at 194.31 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d5101868-b3d4-4c23-9751-80c99ae8202f))
     (pin "2" (uuid 032bfbef-9435-4f44-987a-a51cbe35794f))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA2") (unit 1)
         )
@@ -1323,7 +1267,7 @@
     (pin "7" (uuid b2ce73e3-4c19-4ab2-9158-33de4c6b33a2))
     (pin "8" (uuid facea6d1-2799-4a41-a54d-9fdf98c10ed6))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW2") (unit 1)
         )
@@ -1352,7 +1296,7 @@
     (pin "1" (uuid 34d70b1d-6e6b-4442-9da5-58465e8d1716))
     (pin "2" (uuid c62c8c27-12c2-4ac5-b85e-124bafdae200))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA5") (unit 1)
         )
@@ -1381,7 +1325,7 @@
     (pin "1" (uuid 86404ae6-4cc1-4446-a07a-029873237b5a))
     (pin "2" (uuid 348cc875-fc37-48fd-b114-aa316234edc2))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA1") (unit 1)
         )
@@ -1410,7 +1354,7 @@
     (pin "1" (uuid 11d50594-7ba5-4b70-bf7c-52c0908f864e))
     (pin "2" (uuid d9e70c18-72f7-4434-a5ad-7b9864a02eb8))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW6") (unit 1)
         )
@@ -1421,53 +1365,25 @@
     )
   )
 
-  (symbol (lib_id "power:Earth") (at 187.96 129.54 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 9ed7ae12-3560-4395-939e-3f9b28fc3538)
-    (property "Reference" "#PWR01" (at 187.96 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "Earth" (at 187.96 133.35 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Footprint" "" (at 187.96 129.54 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 187.96 129.54 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid a0054d20-1d5c-4ebc-9c79-fdea3bdc3bfb))
-    (instances
-      (project "Car_TractiveSystem_v2"
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
-          (reference "#PWR01") (unit 1)
-        )
-        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "#PWR05") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_name "Lamp_2") (lib_id "Device:Lamp") (at 207.01 25.4 0) (mirror y) (unit 1)
+  (symbol (lib_name "Lamp_2") (lib_id "Device:Lamp") (at 205.105 25.4 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a93bfaf3-4b13-4a57-bf6c-a15ca8f4d938)
-    (property "Reference" "LA2" (at 210.82 22.86 0)
+    (property "Reference" "LA2" (at 208.915 22.86 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "IMD Safety Light" (at 208.28 27.94 0)
+    (property "Value" "IMD Safety Light" (at 206.375 27.94 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 214.63 24.13 0)
+    (property "Footprint" "" (at 212.725 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 214.63 24.13 0)
+    (property "Datasheet" "~" (at 212.725 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c5a258cd-1b7e-4020-8a4f-3c05d3c55ae4))
     (pin "2" (uuid 9ca3ec21-2a6c-42b3-9250-aed44d17b8d7))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA2") (unit 1)
         )
@@ -1506,7 +1422,7 @@
     (pin "8" (uuid 24c09278-8d88-4e2f-b4cc-1020d5f83833))
     (pin "9" (uuid 9fbbf5ef-17e1-40df-98b7-92dba254de75))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
           (reference "J9") (unit 1)
         )
@@ -1514,25 +1430,25 @@
     )
   )
 
-  (symbol (lib_name "Lamp_2") (lib_id "Device:Lamp") (at 198.12 36.83 0) (mirror y) (unit 1)
+  (symbol (lib_name "Lamp_2") (lib_id "Device:Lamp") (at 196.85 36.83 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f57336d9-5c33-494a-8cc7-04af6abc4848)
-    (property "Reference" "LA2" (at 201.93 34.29 0)
+    (property "Reference" "LA2" (at 200.66 34.29 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "AMS Fault Batt H" (at 199.39 39.37 0)
+    (property "Value" "AMS Fault Batt H" (at 198.12 39.37 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 205.74 35.56 0)
+    (property "Footprint" "" (at 204.47 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 205.74 35.56 0)
+    (property "Datasheet" "~" (at 204.47 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7fd16d04-53a4-472b-a2e1-3b9ddb792633))
     (pin "2" (uuid 3fc4e58b-7978-4144-a634-17a876b767e1))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA2") (unit 1)
         )

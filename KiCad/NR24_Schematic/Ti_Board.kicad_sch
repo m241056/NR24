@@ -2842,13 +2842,6 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "GND" (shape input) (at 287.02 162.56 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 6cc416d9-8a42-4a21-819a-8f284b292ec5)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 287.02 155.7043 90)
-      (effects (font (size 1.27 1.27)) (justify right) hide)
-    )
-  )
   (global_label "3.3V on TI" (shape input) (at 268.605 210.82 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold (color 0 0 255 1)) (justify right))
     (uuid 73a67a70-de23-40b9-aa26-a2bad431d38b)
@@ -3090,6 +3083,10 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 6adf6ee3-01b5-4af0-9ba8-002ae9478f11)
   )
+  (hierarchical_label "GND" (shape input) (at 287.02 162.56 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 8752aa09-0f03-4d17-a1ce-41ad582a3f23)
+  )
   (hierarchical_label "CAN from Sevcon" (shape input) (at 294.64 104.14 90) (fields_autoplaced)
     (effects (font (size 2 2) bold (color 0 194 194 1)) (justify left))
     (uuid ae766eb6-3d7f-4fea-841a-50439c143069)
@@ -3122,7 +3119,7 @@
     (pin "2" (uuid 64f12e43-e8bf-4b08-a8b7-edf2d49c0e0b))
     (pin "3" (uuid cac1090b-297c-46fa-bef5-e8ff6bbc2d25))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "Q3") (unit 1)
         )
@@ -3159,7 +3156,7 @@
     (pin "1" (uuid ce0e8341-d156-46f8-adc2-acd638c73cbd))
     (pin "2" (uuid b35d17fd-1ba3-4651-9973-ca52e0bd537a))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "D3") (unit 1)
         )
@@ -3208,7 +3205,7 @@
     (pin "39" (uuid 079660e7-ca94-4e17-80c1-7a14a3be9a4f))
     (pin "40" (uuid f767e604-9dd5-47e6-998b-afa4f5cdca8b))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
@@ -3243,7 +3240,7 @@
     (pin "2" (uuid d95f03ef-66e3-42be-b96a-e48f7980ca8f))
     (pin "3" (uuid c5e68d9a-8f65-4fba-b3f6-f2dc6a7d8939))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "Q1") (unit 1)
         )
@@ -3292,7 +3289,7 @@
     (pin "79" (uuid f16bf840-f868-4934-8af6-36dd4dff68ae))
     (pin "80" (uuid 9741eacd-3ebc-4c65-b0b7-f8f8342b7476))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
@@ -3344,7 +3341,7 @@
     (pin "8" (uuid 0c96a51a-2e55-4d53-bf68-e41cfe46313d))
     (pin "9" (uuid 97349c01-378d-419c-881e-ad555cecfc72))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
@@ -3396,7 +3393,7 @@
     (pin "8" (uuid 13632cef-d75e-435c-a75e-538c60565b21))
     (pin "9" (uuid dcf3146d-419e-48bc-a61b-4dd2a5a87ca7))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
@@ -3448,7 +3445,7 @@
     (pin "69" (uuid 0cabfabc-45af-4c4b-9fbd-e5fa0c68a753))
     (pin "70" (uuid c2222908-db8f-4107-93c6-67baadb961dc))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
@@ -3482,7 +3479,7 @@
     (pin "1-" (uuid 0caa3e06-cda2-464b-9f96-b6c28e449c16))
     (pin "1+" (uuid 57e10995-b667-4913-8d62-6a3af671f4c9))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "J6") (unit 1)
         )
@@ -3531,7 +3528,7 @@
     (pin "39" (uuid 5d8769ba-c44c-43d8-9b48-6b72613dac50))
     (pin "40" (uuid 18692bce-ecd9-4167-9b27-317b802eb2d6))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
@@ -3566,7 +3563,7 @@
     (pin "2" (uuid 86c268e2-4521-4374-a74f-add83b1a3017))
     (pin "3" (uuid bcff65cd-ffc2-4ae4-977b-e28d02fde923))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "Q2") (unit 1)
         )
@@ -3597,7 +3594,7 @@
     (pin "1" (uuid aeaeb2fe-1c5a-4488-800f-ad3963506d4a))
     (pin "2" (uuid 37162c8b-83d9-4cd7-9636-3655e7793ce4))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "R2") (unit 1)
         )
@@ -3628,7 +3625,7 @@
     (pin "1" (uuid bd0775de-d4c4-45c1-8855-2d9a5498b682))
     (pin "2" (uuid ab609250-b03f-4d34-90a2-1165fa7b88ed))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "R4") (unit 1)
         )
@@ -3660,7 +3657,7 @@
     (pin "2" (uuid d357d51d-dca6-4802-8649-f8c8d145590c))
     (pin "3" (uuid 375a16cb-7474-4b57-8062-e7d60cb3d428))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
@@ -3694,7 +3691,7 @@
     (pin "1" (uuid 6d10b100-e87a-44f5-a936-4603e826e88e))
     (pin "2" (uuid 785ef0a9-f1eb-41f1-8e04-102c9ac6c148))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "R4") (unit 1)
         )
@@ -3725,7 +3722,7 @@
     (pin "1" (uuid a2da8d44-4f4d-4cb7-ae83-430a879b0195))
     (pin "2" (uuid a8973cec-c626-4c03-8235-b30e6b0a1594))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "R2") (unit 1)
         )
@@ -3756,7 +3753,7 @@
     (pin "1" (uuid 69e344e8-9497-439f-94c7-f325a24a6f3d))
     (pin "2" (uuid f88c77cf-7eaa-4785-8388-a11591159d11))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "R4") (unit 1)
         )
@@ -3813,7 +3810,7 @@
     (pin "7" (uuid 9293540f-6da3-45ea-9758-e4e16dbdfba2))
     (pin "9" (uuid 0508de25-5b07-4d21-8399-688942eaa59c))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
@@ -3853,7 +3850,7 @@
     (pin "1" (uuid 1b4bb800-6f50-4649-9d34-4913442827cb))
     (pin "2" (uuid afd04038-77b5-4766-9a10-44d18c0564f0))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "D3") (unit 1)
         )
@@ -3884,7 +3881,7 @@
     (pin "1" (uuid 6a719733-9ec6-4409-a9ca-7bd3acd1e235))
     (pin "2" (uuid c7b5e9d0-50a1-477f-b982-c57359b5af1e))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "R2") (unit 1)
         )
@@ -3915,7 +3912,7 @@
     (pin "1" (uuid 68940db5-d03b-447c-a74e-0b0c96d3e967))
     (pin "2" (uuid 997ebe0d-4e06-433d-8b9b-dbe969e62218))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "R3") (unit 1)
         )
@@ -3946,7 +3943,7 @@
     (pin "1" (uuid 719310eb-08f0-48fe-a3e1-b5bfda892c43))
     (pin "2" (uuid 012df618-b271-476a-a992-c4c07c0ff95d))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "R4") (unit 1)
         )
@@ -3983,7 +3980,7 @@
     (pin "1" (uuid 524543de-743e-469d-bb65-9b461eae926a))
     (pin "2" (uuid 2cf75ea6-d2f5-4c57-b31d-e1c68687a9aa))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "D3") (unit 1)
         )

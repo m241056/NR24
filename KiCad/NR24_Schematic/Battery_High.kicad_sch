@@ -1362,7 +1362,7 @@
     (pin "1" (uuid 8493e0a9-2310-4d36-8402-5fa1eddcdf4c))
     (pin "2" (uuid 90ed4f18-b2ea-4b90-b6d5-bc5d2d4e2fc6))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW?") (unit 1)
         )
@@ -1388,10 +1388,10 @@
     (property "Datasheet" "" (at 121.92 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fcc6d9ea-9c6d-408c-b778-cf4601958006))
-    (pin "1" (uuid fcc6d9ea-9c6d-408c-b778-cf4601958006))
-    (pin "2" (uuid 8a11e7c2-37bd-4f0c-81c7-656a96d5c9b8))
-    (pin "2" (uuid 8a11e7c2-37bd-4f0c-81c7-656a96d5c9b8))
+    (pin "1" (uuid fcc6d9ea-9c6d-408c-b778-cf4601958009))
+    (pin "1" (uuid fcc6d9ea-9c6d-408c-b778-cf4601958009))
+    (pin "2" (uuid 8a11e7c2-37bd-4f0c-81c7-656a96d5c9bb))
+    (pin "2" (uuid 8a11e7c2-37bd-4f0c-81c7-656a96d5c9bb))
     (pin "3" (uuid 05a979b1-4984-47cf-aa86-36ebd79faa7c))
     (pin "4" (uuid b4b7df9f-5304-42a3-a62b-6fbd98d8f2d9))
     (pin "5" (uuid 363008b2-8c5e-4e4e-8f2b-aae94052b787))
@@ -1399,7 +1399,7 @@
     (pin "7" (uuid 39de5a6f-df5d-4385-b681-6b52449fc793))
     (pin "8" (uuid 2b87739d-cb5d-4f0c-96d4-b51b0a112f40))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U?") (unit 1)
         )
@@ -1437,7 +1437,7 @@
     (pin "8" (uuid 863bcebe-2bff-4c29-bde6-606a9f652b66))
     (pin "9" (uuid 7b404ccc-05e8-407a-9b8e-2e7263fd885b))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
           (reference "RL3") (unit 1)
         )
@@ -1472,7 +1472,7 @@
     (pin "8" (uuid 0d1f31ce-a698-43c5-a817-56cdda32416c))
     (pin "9" (uuid 94124646-9d05-4c23-920a-ef11b252c9ed))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
           (reference "RL1") (unit 1)
         )
@@ -1504,7 +1504,7 @@
     (pin "1" (uuid c95dafd3-ad24-4e23-b99a-41cb8b9a947d))
     (pin "2" (uuid cf1117ad-3354-4f33-ac1c-7a3422ed2f48))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
           (reference "D5") (unit 1)
         )
@@ -1530,7 +1530,7 @@
     (pin "1" (uuid 8509cae7-ef73-411e-a818-73246250a6e7))
     (pin "2" (uuid aebf7eee-6901-4428-9b84-312ef49caf26))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW?") (unit 1)
         )
@@ -1559,7 +1559,7 @@
     (pin "1" (uuid 21a5dad6-da59-4610-b742-81763a871a51))
     (pin "2" (uuid acb61140-a2f4-4ba7-9c15-456b15b3dbce))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
           (reference "BT4") (unit 1)
         )
@@ -1591,7 +1591,7 @@
     (pin "1" (uuid 137963a7-0799-4753-bd13-ee13c5f2f22c))
     (pin "2" (uuid 7cc327bd-34b6-4c1e-bdc3-b2418e9eeb1b))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
           (reference "D7") (unit 1)
         )
@@ -1635,7 +1635,7 @@
     (pin "8" (uuid 450672b5-6d61-4ed0-b38e-e6b1e1d0852e))
     (pin "9" (uuid 197b6f9e-5270-44c0-a151-97824bca8b28))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U?") (unit 1)
         )
@@ -1645,6 +1645,23 @@
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
           (reference "U3") (unit 1)
         )
+      )
+    )
+  )
+
+  (sheet (at 26.67 110.49) (size 45.72 40.64) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6786b777-9654-4b97-bafc-3834bef66455)
+    (property "Sheetname" "Accumulator_Details" (at 26.67 109.7784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Accumulator.kicad_sch" (at 26.67 151.7146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Car_TractiveSystem_MAIN"
+        (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b" (page "7"))
       )
     )
   )

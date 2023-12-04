@@ -1414,6 +1414,10 @@
     (stroke (width 0) (type default))
     (uuid 6e6b4a32-975f-4035-8130-b5bf2bd4695a)
   )
+  (bus_entry (at 24.13 223.52) (size 2.54 2.54)
+    (stroke (width 0) (type default))
+    (uuid 722a2929-836c-40a3-ac88-d4e9c43f466f)
+  )
   (bus_entry (at 24.13 224.155) (size 2.54 2.54)
     (stroke (width 0) (type default))
     (uuid 8c4c4674-87ae-4e40-93df-c5b73196b5e9)
@@ -1429,10 +1433,6 @@
   (bus_entry (at 24.13 93.98) (size -2.54 2.54)
     (stroke (width 0.75) (type default) (color 0 132 132 1))
     (uuid 9e97ade0-b9f3-4708-98fc-01cbf4f311a8)
-  )
-  (bus_entry (at 295.91 73.66) (size 2.54 2.54)
-    (stroke (width 0.75) (type default) (color 0 132 132 1))
-    (uuid a0534899-86fe-4435-a1a2-fffd050db730)
   )
   (bus_entry (at 35.56 193.04) (size 2.54 2.54)
     (stroke (width 0) (type default))
@@ -1466,9 +1466,17 @@
     (stroke (width 0) (type default))
     (uuid c524c2a9-434c-4f2c-8e6c-1f0a0300dbee)
   )
+  (bus_entry (at 24.13 222.25) (size 2.54 2.54)
+    (stroke (width 0) (type default))
+    (uuid c58d76e7-22ba-42c7-bac8-6bfbaa07d5f6)
+  )
   (bus_entry (at 238.76 167.64) (size 2.54 2.54)
     (stroke (width 0) (type default))
     (uuid cc220060-5e92-4892-9fd0-163b089a1e40)
+  )
+  (bus_entry (at 24.13 221.615) (size 2.54 2.54)
+    (stroke (width 0) (type default))
+    (uuid d328f694-703c-4320-ab19-10e9cce593c1)
   )
   (bus_entry (at 181.61 210.82) (size -2.54 -2.54)
     (stroke (width 0) (type default))
@@ -1478,9 +1486,9 @@
     (stroke (width 0) (type default))
     (uuid d7e11ba0-1029-419d-82b6-0342259dc8c1)
   )
-  (bus_entry (at 246.38 76.2) (size 2.54 -2.54)
-    (stroke (width 0.75) (type default) (color 0 132 132 1))
-    (uuid dbff7266-9415-4e0a-9eb2-f4a947244790)
+  (bus_entry (at 24.13 222.885) (size 2.54 2.54)
+    (stroke (width 0) (type default))
+    (uuid da31324f-e8e0-4ed5-a348-9172cb0ce8d4)
   )
   (bus_entry (at 24.13 225.425) (size 2.54 2.54)
     (stroke (width 0) (type default))
@@ -1533,6 +1541,14 @@
     (stroke (width 0) (type default))
     (uuid 09c5bdae-3089-4858-baa2-4bbc1d10d81b)
   )
+  (wire (pts (xy 26.67 224.79) (xy 113.03 224.79))
+    (stroke (width 0) (type default))
+    (uuid 0b6279de-b3d8-4bc6-97ba-b00af6cf4aa5)
+  )
+  (wire (pts (xy 52.705 236.22) (xy 52.705 237.49))
+    (stroke (width 0) (type default))
+    (uuid 0ba51bd5-e959-4697-b2e4-c7d020aa98ff)
+  )
   (polyline (pts (xy 138.43 264.16) (xy 138.43 260.35))
     (stroke (width 0.5) (type default))
     (uuid 0d418a9d-266d-40a0-aa16-e5cf1e8bc5a7)
@@ -1584,6 +1600,11 @@
     (stroke (width 0) (type default))
     (uuid 1b796a6a-34fb-404d-9d87-b599162905aa)
   )
+  (bus (pts (xy 250.19 77.47) (xy 293.37 77.47))
+    (stroke (width 0) (type default))
+    (uuid 1cd84e93-8dcb-4ced-a127-8b5ce2ff6e46)
+  )
+
   (wire (pts (xy 227.33 179.07) (xy 232.41 179.07))
     (stroke (width 0) (type default))
     (uuid 1f639c7f-216b-41a0-9751-e1f90cfbe4ee)
@@ -1610,19 +1631,9 @@
     (stroke (width 0) (type default))
     (uuid 245b66e9-8a56-4f32-b985-ea5d263f2cf6)
   )
-  (bus (pts (xy 238.76 129.54) (xy 257.81 129.54))
-    (stroke (width 0) (type default))
-    (uuid 24c4a643-ac81-4979-80ad-0dcbf55e5ee7)
-  )
-
   (polyline (pts (xy 166.37 217.17) (xy 177.8 217.17))
     (stroke (width 0.5) (type default))
     (uuid 2511bbff-576e-4acb-a4a3-a73870a9ee6b)
-  )
-
-  (bus (pts (xy 21.59 96.52) (xy 21.59 182.88))
-    (stroke (width 0.75) (type default) (color 0 132 132 1))
-    (uuid 2751804e-ed0d-4761-8f93-bc7764a705ee)
   )
 
   (wire (pts (xy 26.67 227.965) (xy 44.45 227.965))
@@ -1642,6 +1653,10 @@
     (uuid 2c5dd66c-6cc8-437a-9ec0-4e59e0e24ff2)
   )
 
+  (bus (pts (xy 24.13 222.885) (xy 24.13 223.52))
+    (stroke (width 0) (type default))
+    (uuid 2cea87c5-fd6d-45e8-a254-eb11c5409800)
+  )
   (bus (pts (xy 179.07 210.82) (xy 179.07 256.54))
     (stroke (width 0) (type default))
     (uuid 2d156d76-3b8a-4a43-93f6-e2b2379bafe4)
@@ -1654,6 +1669,10 @@
   (bus (pts (xy 24.13 220.345) (xy 24.13 220.98))
     (stroke (width 0) (type default))
     (uuid 30134eca-7848-4f6f-ba38-1eac8dc0fdfe)
+  )
+  (bus (pts (xy 298.45 73.66) (xy 298.45 133.35))
+    (stroke (width 1) (type default) (color 0 132 132 1))
+    (uuid 31995573-b2b2-448f-938c-a8a3dba2a4ee)
   )
 
   (polyline (pts (xy 173.99 224.79) (xy 173.99 256.54))
@@ -1728,7 +1747,7 @@
     (stroke (width 0.75) (type default))
     (uuid 3fce24b3-f683-40a6-9ba3-f538d20a0cd5)
   )
-  (wire (pts (xy 215.9 121.92) (xy 210.82 121.92))
+  (wire (pts (xy 209.55 133.35) (xy 204.47 133.35))
     (stroke (width 0) (type default))
     (uuid 4029d046-4be4-4fe9-a26e-807a1145620d)
   )
@@ -1761,7 +1780,7 @@
     (stroke (width 0) (type default))
     (uuid 45c2734e-02ec-41a1-abc7-2d4d85bc5d12)
   )
-  (bus (pts (xy 234.95 176.53) (xy 234.95 125.73))
+  (bus (pts (xy 234.95 176.53) (xy 234.95 123.19))
     (stroke (width 0.75) (type default) (color 0 132 132 1))
     (uuid 47cdc27f-da89-41e7-92e8-d2c190773574)
   )
@@ -1783,6 +1802,11 @@
     (stroke (width 0.75) (type default))
     (uuid 4ad25653-c95c-410a-8536-dcd587d9620d)
   )
+  (bus (pts (xy 21.59 96.52) (xy 21.59 182.88))
+    (stroke (width 0.75) (type default) (color 0 132 132 1))
+    (uuid 4af02ed9-3d93-465f-81c1-14ab13a8da20)
+  )
+
   (wire (pts (xy 127 142.24) (xy 120.65 142.24))
     (stroke (width 0) (type default))
     (uuid 4b1cffb3-d981-47d1-bc3b-796a7124947d)
@@ -1824,7 +1848,7 @@
     (stroke (width 0.5) (type default) (color 255 153 0 1))
     (uuid 53682610-b0dc-42ea-90b7-900b98700a31)
   )
-  (bus (pts (xy 24.13 220.98) (xy 24.13 224.155))
+  (bus (pts (xy 24.13 220.98) (xy 24.13 221.615))
     (stroke (width 0) (type default))
     (uuid 53cd4ceb-92fb-4726-b83c-34e6c9d278f1)
   )
@@ -1848,6 +1872,10 @@
   (wire (pts (xy 168.91 125.73) (xy 172.72 125.73))
     (stroke (width 0) (type default))
     (uuid 58ab93b5-f0f5-4b8c-bbfa-63b4adb132b1)
+  )
+  (wire (pts (xy 113.03 237.49) (xy 113.03 224.79))
+    (stroke (width 0) (type default))
+    (uuid 58f79a59-332d-48e1-b48e-206bfbf5fea2)
   )
   (wire (pts (xy 168.91 194.31) (xy 166.37 194.31))
     (stroke (width 0.75) (type default))
@@ -1926,10 +1954,6 @@
     (uuid 743167c0-f6c6-499d-8e0f-810245ddd5b8)
   )
 
-  (wire (pts (xy 226.06 121.92) (xy 257.81 121.92))
-    (stroke (width 0) (type default))
-    (uuid 748259cf-f6f7-4b4d-a7ad-f3df3588c9dd)
-  )
   (wire (pts (xy 134.62 252.73) (xy 170.18 252.73))
     (stroke (width 0.5) (type default) (color 255 74 14 1))
     (uuid 76563050-a91c-4892-99e1-347089ed5dd0)
@@ -1946,11 +1970,10 @@
     (stroke (width 0) (type default))
     (uuid 770e010e-6120-47ff-86de-54b1c18d72ea)
   )
-  (bus (pts (xy 250.19 77.47) (xy 294.64 77.47))
+  (wire (pts (xy 109.855 236.22) (xy 109.855 237.49))
     (stroke (width 0) (type default))
-    (uuid 795da0e7-f5b0-422d-a545-f8fe6dad73bd)
+    (uuid 7797a8f1-e04f-4eb9-b407-54f88eab920c)
   )
-
   (wire (pts (xy 96.52 142.24) (xy 118.11 142.24))
     (stroke (width 0) (type default))
     (uuid 795e5be0-8881-441b-8e43-94984c4e1725)
@@ -1972,9 +1995,13 @@
     (stroke (width 0) (type default))
     (uuid 7e51fa1d-45cf-4fc0-9540-275d94335080)
   )
-  (wire (pts (xy 52.07 231.14) (xy 96.52 231.14))
+  (wire (pts (xy 54.61 231.14) (xy 96.52 231.14))
     (stroke (width 0) (type default))
     (uuid 7fa3eff2-1b0c-4a2a-bbf9-517e6521b024)
+  )
+  (wire (pts (xy 290.83 115.57) (xy 290.83 133.35))
+    (stroke (width 0) (type default))
+    (uuid 7fd11611-5733-4b52-bc4f-7a2cff2b28cf)
   )
   (bus (pts (xy 179.07 199.39) (xy 179.07 201.93))
     (stroke (width 0) (type default))
@@ -2019,9 +2046,9 @@
     (stroke (width 0.75) (type default))
     (uuid 82447c24-6637-434e-b539-01b3b1ba100e)
   )
-  (bus (pts (xy 298.45 76.2) (xy 298.45 118.11))
-    (stroke (width 0.75) (type default) (color 0 132 132 1))
-    (uuid 84c73de0-9aeb-4b48-95bc-e433ce8a0ba3)
+  (bus (pts (xy 24.13 222.25) (xy 24.13 222.885))
+    (stroke (width 0) (type default))
+    (uuid 850bc98e-f91f-46ee-b9c4-62609e862b56)
   )
 
   (wire (pts (xy 181.61 204.47) (xy 186.69 204.47))
@@ -2052,6 +2079,11 @@
     (stroke (width 0.5) (type default))
     (uuid 8f6813de-7a39-4956-89a7-b9ddd48addd7)
   )
+
+  (wire (pts (xy 228.6 115.57) (xy 290.83 115.57))
+    (stroke (width 0) (type default))
+    (uuid 90d8c4fe-2821-4164-9ab6-9dccb3dcf7fb)
+  )
   (polyline (pts (xy 142.24 273.05) (xy 142.24 264.16))
     (stroke (width 0.5) (type default))
     (uuid 91e8ac57-2766-4642-942e-d214c1a1b942)
@@ -2070,7 +2102,7 @@
     (uuid 94f87b72-ba1e-46f7-b89a-254d6561b529)
   )
 
-  (wire (pts (xy 109.22 237.49) (xy 109.22 231.14))
+  (wire (pts (xy 107.95 237.49) (xy 107.95 231.14))
     (stroke (width 0) (type default))
     (uuid 955f565e-7851-4802-a50a-81699f3bf91d)
   )
@@ -2110,6 +2142,10 @@
     (stroke (width 0) (type default))
     (uuid 9ccd1f8d-405a-44bc-8976-29f36c4f17fb)
   )
+  (wire (pts (xy 228.6 133.35) (xy 228.6 115.57))
+    (stroke (width 0) (type default))
+    (uuid 9f114891-7726-4cad-b25a-a49c8378566b)
+  )
   (wire (pts (xy 167.64 250.19) (xy 137.16 250.19))
     (stroke (width 0.5) (type default))
     (uuid a2742521-30e7-4cb6-a90a-f57784a3adb3)
@@ -2140,7 +2176,7 @@
     (stroke (width 0) (type default))
     (uuid a6fbea76-3d2f-4fff-bacf-c9dfd8235251)
   )
-  (bus (pts (xy 110.49 237.49) (xy 110.49 229.87))
+  (bus (pts (xy 111.76 237.49) (xy 111.76 229.87))
     (stroke (width 0) (type default))
     (uuid a70b45ec-e68a-46b2-ba3d-927577526887)
   )
@@ -2148,6 +2184,10 @@
   (wire (pts (xy 26.67 226.06) (xy 48.26 226.06))
     (stroke (width 0) (type default))
     (uuid a7381f74-bd06-4827-8cc8-172786d82f7d)
+  )
+  (wire (pts (xy 114.3 237.49) (xy 114.3 224.155))
+    (stroke (width 0) (type default))
+    (uuid a73deb49-d116-4b13-9125-128ad49157c2)
   )
   (wire (pts (xy 115.57 237.49) (xy 115.57 223.52))
     (stroke (width 0) (type default))
@@ -2291,9 +2331,9 @@
     (stroke (width 0.5) (type default))
     (uuid c6e1e9aa-1e42-4dd5-9cc1-3afbb1833067)
   )
-  (bus (pts (xy 294.64 118.11) (xy 294.64 77.47))
+  (bus (pts (xy 238.76 127) (xy 284.48 127))
     (stroke (width 0) (type default))
-    (uuid c973d05a-a8fe-44fe-91c9-4ed7bba2cbb7)
+    (uuid c975e9a3-5f73-4189-9160-97d60abc0cbe)
   )
 
   (polyline (pts (xy 166.37 240.03) (xy 166.37 240.03))
@@ -2314,7 +2354,11 @@
     (stroke (width 0) (type default))
     (uuid cad71f8a-4501-4ea3-aa32-71cfe3555394)
   )
-  (bus (pts (xy 234.95 125.73) (xy 257.81 125.73))
+  (bus (pts (xy 24.13 223.52) (xy 24.13 224.155))
+    (stroke (width 0) (type default))
+    (uuid cb8beac6-9ebc-4be6-9615-cd65a33a8ead)
+  )
+  (bus (pts (xy 234.95 123.19) (xy 288.29 123.19))
     (stroke (width 0.75) (type default) (color 0 132 132 1))
     (uuid cd4906a8-5577-413b-9941-98ce0c9fd3a6)
   )
@@ -2362,7 +2406,7 @@
     (stroke (width 0) (type default))
     (uuid d1f2746e-3244-4268-b211-ff5accca7cf9)
   )
-  (bus (pts (xy 238.76 129.54) (xy 238.76 167.64))
+  (bus (pts (xy 238.76 127) (xy 238.76 167.64))
     (stroke (width 0) (type default))
     (uuid d2b40a15-aadd-4195-bd8f-b0503231f02b)
   )
@@ -2383,13 +2427,17 @@
     (stroke (width 0) (type default))
     (uuid d9c788f0-63ed-41ce-9698-04a5417b37b1)
   )
-  (wire (pts (xy 52.07 237.49) (xy 52.07 231.14))
+  (wire (pts (xy 54.61 237.49) (xy 54.61 231.14))
     (stroke (width 0) (type default))
     (uuid d9f83006-ba68-4d91-84f6-7bdeb1e1f767)
   )
   (wire (pts (xy 186.69 179.07) (xy 184.15 179.07))
     (stroke (width 0.5) (type default))
     (uuid da05214a-024c-4c76-bd58-9b333b4d7c66)
+  )
+  (wire (pts (xy 219.71 133.35) (xy 228.6 133.35))
+    (stroke (width 0) (type default))
+    (uuid dbb15f05-ca3c-47b9-a5b6-4fd06ed543ff)
   )
   (wire (pts (xy 137.16 250.19) (xy 137.16 265.43))
     (stroke (width 0.5) (type default))
@@ -2404,6 +2452,11 @@
     (stroke (width 0.75) (type default))
     (uuid de902db8-bac2-4822-abab-500795dd8728)
   )
+  (bus (pts (xy 24.13 221.615) (xy 24.13 222.25))
+    (stroke (width 0) (type default))
+    (uuid df0d99eb-4fcc-46cb-92ce-907ab8f4f703)
+  )
+
   (wire (pts (xy 115.57 151.13) (xy 115.57 176.53))
     (stroke (width 0) (type default))
     (uuid e1132527-2d1c-49fe-874c-48021d31a5da)
@@ -2412,6 +2465,11 @@
     (stroke (width 0.5) (type default) (color 255 74 14 1))
     (uuid e1ea5104-0329-4286-9f3b-b9ca60cc741a)
   )
+  (bus (pts (xy 284.48 127) (xy 284.48 133.35))
+    (stroke (width 0) (type default))
+    (uuid e2f315ad-7043-4f9d-8af6-40c4c99ffc61)
+  )
+
   (wire (pts (xy 158.75 125.73) (xy 156.21 125.73))
     (stroke (width 0) (type default))
     (uuid e44975fb-e6fd-45f0-a30e-73fdcf47f7b7)
@@ -2424,13 +2482,22 @@
     (stroke (width 0) (type default))
     (uuid e70900db-b073-4037-aeeb-fada1e380de3)
   )
-  (bus (pts (xy 246.38 76.2) (xy 246.38 93.98))
+  (bus (pts (xy 246.38 73.66) (xy 246.38 93.98))
     (stroke (width 1) (type default) (color 0 132 132 1))
     (uuid e72acf3e-ad20-493c-a4ea-3ae0217d5437)
   )
   (bus (pts (xy 246.38 93.98) (xy 256.54 93.98))
     (stroke (width 1) (type default) (color 0 132 132 1))
     (uuid e7c8b9d4-339a-47fc-bbd3-17892e6bde24)
+  )
+
+  (wire (pts (xy 26.67 224.155) (xy 114.3 224.155))
+    (stroke (width 0) (type default))
+    (uuid e85332a6-861c-4dc0-a922-82eda639ca13)
+  )
+  (bus (pts (xy 288.29 123.19) (xy 288.29 133.35))
+    (stroke (width 0.75) (type default) (color 0 132 132 1))
+    (uuid ea85a22f-abaf-49f0-adc1-9247bc0a46b2)
   )
   (bus (pts (xy 179.07 208.28) (xy 179.07 210.82))
     (stroke (width 0) (type default))
@@ -2461,11 +2528,11 @@
     (stroke (width 0) (type default))
     (uuid ec7a3e40-26d2-4164-a69b-07ff8cbee88d)
   )
-  (bus (pts (xy 41.91 229.87) (xy 110.49 229.87))
+  (bus (pts (xy 41.91 229.87) (xy 111.76 229.87))
     (stroke (width 0) (type default))
     (uuid ee321d81-1822-4d2d-ad61-4ae123e311d8)
   )
-  (bus (pts (xy 248.92 73.66) (xy 295.91 73.66))
+  (bus (pts (xy 246.38 73.66) (xy 298.45 73.66))
     (stroke (width 1) (type default) (color 0 132 132 1))
     (uuid f14fb0e5-43c7-4d34-a337-dbaf9b95f3d2)
   )
@@ -2486,6 +2553,10 @@
     (stroke (width 0.5) (type default))
     (uuid f7cdc6f9-966c-45c0-8ad0-ec2c9cf08d43)
   )
+  (bus (pts (xy 293.37 77.47) (xy 293.37 133.35))
+    (stroke (width 0) (type default))
+    (uuid f8d462be-c8d5-4f1b-9886-eb08f4b2ac3e)
+  )
   (bus (pts (xy 24.13 225.425) (xy 24.13 226.06))
     (stroke (width 0) (type default))
     (uuid f90b7c3f-18d7-4611-9636-4890c77e54ac)
@@ -2495,7 +2566,7 @@
     (stroke (width 0) (type default))
     (uuid f915cd07-0cee-40ed-b8a0-b1506463c397)
   )
-  (wire (pts (xy 96.52 231.14) (xy 109.22 231.14))
+  (wire (pts (xy 96.52 231.14) (xy 107.95 231.14))
     (stroke (width 0) (type default))
     (uuid fd0d6b30-642a-432c-b8b0-bd7f8f3d6d4b)
   )
@@ -2522,7 +2593,7 @@
     (fill (type none))
     (uuid 38ea1562-4da8-476b-b0e7-e47ff25f25df)
   )
-  (rectangle (start 213.36 115.57) (end 228.6 125.73)
+  (rectangle (start 207.01 127) (end 222.25 137.16)
     (stroke (width 0.5) (type default) (color 194 0 194 1))
     (fill (type none))
     (uuid 3f69cf9c-7a4a-4236-aefd-a5c84bd3dde7)
@@ -2532,7 +2603,7 @@
     (fill (type none))
     (uuid 490f8aaa-6f70-4143-b5ed-4cd75043a047)
   )
-  (rectangle (start 222.25 123.19) (end 222.25 123.19)
+  (rectangle (start 215.9 134.62) (end 215.9 134.62)
     (stroke (width 0) (type default))
     (fill (type none))
     (uuid c6bedff4-8203-4714-ac88-24ff516818a8)
@@ -2544,7 +2615,7 @@
   )
 
   (text_box ""
-    (at 12.7 274.32 0) (size 29.21 6.35)
+    (at 12.7 274.32 0) (size 38.1 6.35)
     (stroke (width 1) (type default) (color 194 0 0 1))
     (fill (type none))
     (effects (font (size 1.27 1.27)) (justify left top))
@@ -2610,10 +2681,6 @@
     (effects (font (size 1.27 1.27) bold (color 255 0 241 1)) (justify left bottom))
     (uuid 966130b1-432c-4552-ac24-3bcc0f3f6d87)
   )
-  (text "Chassis GND = LV GND" (at 13.97 278.13 0)
-    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
-    (uuid 99be94ff-c011-4149-993a-17a41257fff6)
-  )
   (text "Left Side \nBehind Driver" (at 124.46 133.35 0)
     (effects (font (size 1.27 1.27) bold (color 255 0 241 1)) (justify left bottom))
     (uuid 9c0d1452-8856-4cfe-966b-7a2906df7b42)
@@ -2622,11 +2689,11 @@
     (effects (font (size 3.5 3.5) bold (color 0 72 72 1)) (justify left bottom))
     (uuid b05a473b-7e1c-4dbe-a099-693eb6ae3881)
   )
-  (text "Mounted to\nBack of Car" (at 214.63 130.81 0)
+  (text "Mounted to\nBack of Car" (at 208.28 142.24 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold (color 255 0 241 1)) (justify left bottom))
     (uuid bb62909e-ec8b-41eb-b633-5e96893f12c1)
   )
-  (text "Behind Dash" (at 273.05 118.11 0)
+  (text "Behind Dash" (at 307.975 158.75 0)
     (effects (font (size 1.27 1.27) bold (color 255 0 241 1)) (justify left bottom))
     (uuid bf4e4c23-faed-4ec8-bbbb-eb9899dbf9a4)
   )
@@ -2654,7 +2721,7 @@
     (effects (font (size 1.27 1.27) bold (color 255 0 241 1)) (justify left bottom))
     (uuid f1cc52c7-30fc-4d56-9ad1-7ca26d30b829)
   )
-  (text "= Chassis GND = LV GND" (at 19.05 271.78 0)
+  (text "= Chassis GND = LV GND" (at 18.415 278.765 0)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
     (uuid f1fb8232-f4de-43ae-a062-ec8a5570043d)
   )
@@ -2679,7 +2746,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1e33d94b-1d9f-4dbe-a07d-050d3fc6ae6d)
   )
-  (label "Fault Lights" (at 24.13 179.07 90) (fields_autoplaced)
+  (label "Battery Info" (at 24.13 179.07 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1e3ec934-e9fb-486f-80f3-0984dc17c823)
   )
@@ -2695,7 +2762,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2e310e86-f0eb-4bd9-8535-4392578091fd)
   )
-  (label "TI BOARD CAN" (at 298.45 116.84 90) (fields_autoplaced)
+  (label "TI BOARD CAN" (at 298.45 112.395 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3880d34e-0d32-42ed-acd8-ac5377814169)
   )
@@ -2723,7 +2790,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6fbdbcd4-1e23-4bb2-a4f6-29d9a3c85b67)
   )
-  (label "SEVCON CAN" (at 234.95 125.73 0) (fields_autoplaced)
+  (label "SEVCON CAN" (at 234.95 139.065 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7dc1deb7-4498-4fc5-b229-ae0ec3d1602e)
   )
@@ -2735,7 +2802,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 8aaab922-d856-4ccd-83ec-45dbc83fc712)
   )
-  (label "Fault Lights" (at 212.09 96.52 0) (fields_autoplaced)
+  (label "Battery Info" (at 212.09 96.52 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8cb8bd22-d20f-4e84-8f28-43f063f3500b)
   )
@@ -2755,6 +2822,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b9a7b56f-7716-4bc0-9d85-24b822c911ee)
   )
+  (label "9 pins" (at 293.37 124.46 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bdd03f48-736c-41d8-98e5-3b670ebf5a0a)
+  )
   (label "12V High" (at 26.67 180.34 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e26bc12f-7431-4d33-bdc0-e926d1b4a0d3)
@@ -2767,13 +2838,17 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid ef903a8e-9b32-4151-9f5c-4d65c7a1c119)
   )
-  (label "BATTERY & VDM CAN" (at 21.59 179.07 90) (fields_autoplaced)
+  (label "BATTERY & VDM CAN" (at 21.59 177.8 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f2962149-ecd9-443c-bf99-a89696d059c4)
   )
   (label "See Page 33 Sevcon" (at 179.07 234.95 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fca99bf9-5a90-4135-b2ec-6a14df8cd856)
+  )
+  (label "3 pins" (at 298.45 124.46 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ff0e27f9-b272-4ba5-bc8d-61402604ca54)
   )
 
   (symbol (lib_id "CamachosSymbols:Throttle") (at 260.35 203.2 0) (unit 1)
@@ -2797,7 +2872,7 @@
     (pin "4" (uuid c2767022-5994-4d2b-8586-57536a807e92))
     (pin "5" (uuid 8ee20c84-9aea-410d-967a-28ae4d6dce3c))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U2") (unit 1)
         )
@@ -2820,10 +2895,10 @@
     (property "Datasheet" "~" (at 237.49 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 39afa552-f9fb-4f29-8d1c-9d528e1ae711))
-    (pin "2" (uuid ce1bd0b0-457a-4352-9bf9-3be43b39481f))
+    (pin "1" (uuid 8def3113-9a13-4c31-922b-7e205b321e0e))
+    (pin "2" (uuid fe205653-8b35-4c7b-9a77-33f4a9b98ca9))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW4") (unit 1)
         )
@@ -2852,7 +2927,7 @@
     (pin "1" (uuid 36f8dda4-63d9-4543-9fa6-9a91c44916a5))
     (pin "2" (uuid 42cedac4-10a0-48a0-bd04-db932fb768ec))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "F1") (unit 1)
         )
@@ -2885,7 +2960,7 @@
     (pin "G" (uuid 542ae99a-a80c-44f3-adf3-373bb622d8c1))
     (pin "H" (uuid 9aa4b788-9678-4d50-a718-8d54595c368b))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "M1") (unit 1)
         )
@@ -2914,7 +2989,7 @@
     (pin "4" (uuid f757eaaa-f1fb-4dd8-8a9e-990628de84a4))
     (pin "5" (uuid 55616d86-553e-4269-a41a-b427c1d92a28))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U4") (unit 1)
         )
@@ -2922,24 +2997,24 @@
     )
   )
 
-  (symbol (lib_id "power:Earth") (at 210.82 121.92 270) (unit 1)
+  (symbol (lib_id "power:Earth") (at 204.47 133.35 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3310f715-5cf8-44b1-b131-b049e669ec19)
-    (property "Reference" "#PWR07" (at 204.47 121.92 0)
+    (property "Reference" "#PWR07" (at 198.12 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "Earth" (at 207.01 121.92 0)
+    (property "Value" "Earth" (at 200.66 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (at 210.82 121.92 0)
+    (property "Footprint" "" (at 204.47 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 210.82 121.92 0)
+    (property "Datasheet" "~" (at 204.47 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4608377c-b568-484a-acd1-6e355b321a09))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "#PWR07") (unit 1)
         )
@@ -2965,7 +3040,7 @@
     (pin "1" (uuid 5e941abb-680d-4426-9556-da124ea33597))
     (pin "2" (uuid ef04279d-0980-4f3c-acc4-22ed9ba94809))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW8") (unit 1)
         )
@@ -2991,7 +3066,7 @@
     (pin "1" (uuid 0a9be67b-3528-4c92-9ff8-1235cb7cb435))
     (pin "2" (uuid be0d91bd-978f-4dbf-a514-937658aa5bef))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "BTaux1") (unit 1)
         )
@@ -3018,7 +3093,7 @@
     (pin "2" (uuid 5de707ad-4094-40b0-8806-03a61fcc4e3d))
     (pin "3" (uuid 21fe9919-4350-44d6-a7dc-9e2c1b5c94fe))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U7") (unit 1)
         )
@@ -3044,7 +3119,7 @@
     (pin "1" (uuid f2c71c11-4ca2-4c64-b795-f5dfaa7322b9))
     (pin "2" (uuid eb1ab63c-f493-4cf0-8d1f-0ff81483fb3d))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW3") (unit 1)
         )
@@ -3072,7 +3147,7 @@
     )
     (pin "1" (uuid 15bc12fb-de45-482a-801c-820fcec26eb1))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U6") (unit 1)
         )
@@ -3097,7 +3172,7 @@
     )
     (pin "1" (uuid 7de9b532-bd27-45d4-8895-4ebfa1244ad4))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "#PWR06") (unit 1)
         )
@@ -3123,7 +3198,7 @@
     (pin "1" (uuid 9fcc2ed3-87b6-48a9-802c-ae95c6bf2093))
     (pin "2" (uuid 491bde60-8700-46ee-8b0a-bebda62b9598))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW7") (unit 1)
         )
@@ -3156,7 +3231,7 @@
     (pin "5" (uuid db586b7e-f829-4789-baae-4f6229b6f49f))
     (pin "6" (uuid b5e52dd7-c8fe-4232-90fe-28079b7293e3))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J1") (unit 1)
         )
@@ -3182,7 +3257,7 @@
     (pin "1" (uuid 15d16a16-111f-4fdf-aba3-f2c8bbb3c9c3))
     (pin "2" (uuid 20d27f03-a5fd-4382-9d3e-5b43dc0a6ae1))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "3A") (unit 1)
         )
@@ -3190,24 +3265,24 @@
     )
   )
 
-  (symbol (lib_id "power:Earth") (at 105.41 237.49 0) (mirror x) (unit 1)
+  (symbol (lib_id "power:Earth") (at 109.855 236.22 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 844454ab-f5da-4ffb-ae1e-4d23944ebb9c)
-    (property "Reference" "#PWR02" (at 105.41 231.14 0)
+    (property "Reference" "#PWR02" (at 109.855 229.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "Earth" (at 105.41 233.68 0)
+    (property "Value" "Earth" (at 109.855 232.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (at 105.41 237.49 0)
+    (property "Footprint" "" (at 109.855 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 105.41 237.49 0)
+    (property "Datasheet" "~" (at 109.855 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 890c82f2-1ee6-4181-8d2c-f6ba7a07ca65))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "#PWR02") (unit 1)
         )
@@ -3230,14 +3305,14 @@
     (property "Datasheet" "" (at 187.96 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a770))
-    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a770))
-    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a770))
-    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a770))
-    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a770))
-    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a770))
-    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a770))
-    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a770))
+    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a785))
+    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a785))
+    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a785))
+    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a785))
+    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a785))
+    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a785))
+    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a785))
+    (pin "" (uuid 54b52d43-71b5-4426-aa26-1b3ca987a785))
     (pin "1" (uuid d856716a-e537-4827-aa54-b5197d568434))
     (pin "15" (uuid 8acbdd1e-2261-4117-af7b-9d4d37b0d912))
     (pin "16" (uuid 69ffc223-7619-492c-b016-9611a035cb9a))
@@ -3256,7 +3331,7 @@
     (pin "4" (uuid 272146e1-de50-4f37-a4d4-1f11b25cd046))
     (pin "6" (uuid a97dc05d-248b-4c00-bc46-3760d795103d))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U1") (unit 1)
         )
@@ -3264,25 +3339,25 @@
     )
   )
 
-  (symbol (lib_name "Lamp_4") (lib_id "Device:Lamp") (at 220.98 121.92 180) (unit 1)
+  (symbol (lib_name "Lamp_4") (lib_id "Device:Lamp") (at 214.63 133.35 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a047f266-9f4f-428a-aa18-1782e7742295)
-    (property "Reference" "LA6" (at 214.63 123.19 0)
+    (property "Reference" "LA6" (at 208.28 134.62 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Break Light" (at 214.63 118.11 0)
+    (property "Value" "Break Light" (at 208.28 129.54 0)
       (effects (font (size 1.5 1.5) bold) (justify right))
     )
-    (property "Footprint" "" (at 218.44 121.92 0)
+    (property "Footprint" "" (at 212.09 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 218.44 121.92 0)
+    (property "Datasheet" "~" (at 212.09 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid efe75250-1d52-4b15-8921-4e7affb33213))
     (pin "2" (uuid 266473ed-eaea-4526-a7be-ad391f0f76da))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA6") (unit 1)
         )
@@ -3311,7 +3386,7 @@
     (pin "1" (uuid d8318aa4-701d-4bfe-aa86-5ea955ccfe00))
     (pin "2" (uuid e837286f-7dc6-4870-ab11-e0bafa34d89f))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW1") (unit 1)
         )
@@ -3337,7 +3412,7 @@
     (pin "1" (uuid bb90f97d-b1fd-49b4-a7c9-73418f4eabb5))
     (pin "2" (uuid 6c0d5c9e-f509-46e0-85b9-5f3f5a9a2d16))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA5") (unit 1)
         )
@@ -3368,7 +3443,7 @@
     (pin "3" (uuid c6e26be0-8369-422b-be74-af6ec77c436b))
     (pin "4" (uuid 1b66452f-8d4a-495f-9ab8-a6da37341d90))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "K2") (unit 1)
         )
@@ -3376,24 +3451,24 @@
     )
   )
 
-  (symbol (lib_id "power:Earth") (at 16.51 271.78 0) (mirror x) (unit 1)
+  (symbol (lib_id "power:Earth") (at 15.875 278.765 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bc5efa6d-15b8-4cdb-aca0-15cf6b2774b5)
-    (property "Reference" "#PWR08" (at 16.51 265.43 0)
+    (property "Reference" "#PWR08" (at 15.875 272.415 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "Earth" (at 16.51 267.97 0)
+    (property "Value" "Earth" (at 15.875 274.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (at 16.51 271.78 0)
+    (property "Footprint" "" (at 15.875 278.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 16.51 271.78 0)
+    (property "Datasheet" "~" (at 15.875 278.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f2d45b0f-6d30-4019-a926-62779ca0e80e))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "#PWR08") (unit 1)
         )
@@ -3401,24 +3476,24 @@
     )
   )
 
-  (symbol (lib_id "power:Earth") (at 59.69 237.49 0) (mirror x) (unit 1)
+  (symbol (lib_id "power:Earth") (at 52.705 236.22 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d5061a72-996d-42a2-a4f0-e8bef6aae24f)
-    (property "Reference" "#PWR03" (at 59.69 231.14 0)
+    (property "Reference" "#PWR03" (at 52.705 229.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "Earth" (at 59.69 233.68 0)
+    (property "Value" "Earth" (at 52.705 232.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (at 59.69 237.49 0)
+    (property "Footprint" "" (at 52.705 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 59.69 237.49 0)
+    (property "Datasheet" "~" (at 52.705 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7e2fb284-a7dc-4186-bcea-7dd48fa3121f))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "#PWR03") (unit 1)
         )
@@ -3443,7 +3518,7 @@
     )
     (pin "1" (uuid 9e057b2e-9022-41e1-ad3a-0fb216dd25df))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "#PWR01") (unit 1)
         )
@@ -3468,7 +3543,7 @@
     )
     (pin "1" (uuid 440c9e12-e2af-4086-904e-7e2a8cbbfbcf))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "#PWR04") (unit 1)
         )
@@ -3498,7 +3573,7 @@
     (pin "5" (uuid 9e98dc34-6034-425a-97fa-d0e03493a250))
     (pin "6" (uuid 4fd2f47f-1f24-49f6-b116-c59d7596f367))
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J2") (unit 1)
         )
@@ -3516,11 +3591,11 @@
     (property "Sheetfile" "Battery_Low.kicad_sch" (at 81.28 265.43 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (pin "GND" input (at 105.41 237.49 90)
+    (pin "GND" input (at 109.855 237.49 90)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 5cc92266-ef47-461f-8565-6455b6195aee)
     )
-    (pin "STDWN_CT_OUT" input (at 109.22 237.49 90)
+    (pin "STDWN_CT_OUT" input (at 107.95 237.49 90)
       (effects (font (size 0.75 0.75)) (justify right))
       (uuid 3a3624e7-25fc-43d1-86b3-c1157bfac8ca)
     )
@@ -3544,7 +3619,7 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 13563314-840c-4f5d-9c32-ebde6158f4e2)
     )
-    (pin "CAN_Bus_Out" input (at 110.49 237.49 90)
+    (pin "CAN_Bus_Out" input (at 111.76 237.49 90)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid c19bd877-5170-4c8e-9bf1-a4cbab25e0bc)
     )
@@ -3552,45 +3627,57 @@
       (effects (font (size 0.75 0.75)) (justify right))
       (uuid 309a2790-fc06-4c39-b896-1c66497a4a48)
     )
+    (pin "Disch_Crnt_Lmt_ANLG" input (at 113.03 237.49 90)
+      (effects (font (size 0.75 0.75)) (justify right))
+      (uuid a8665c27-1552-456e-8ce6-140844533aaf)
+    )
+    (pin "State_of_Chrg_ANLG" input (at 114.3 237.49 90)
+      (effects (font (size 0.75 0.75)) (justify right))
+      (uuid ace3a240-21e1-46fb-97e3-3cd6b0c2d966)
+    )
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3" (page "5"))
       )
     )
   )
 
-  (sheet (at 257.81 118.11) (size 46.99 21.59)
+  (sheet (at 273.685 133.35) (size 46.99 21.59)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 42103732-fa28-467e-b394-54af70cbf903)
-    (property "Sheetname" "Ti Board" (at 256.54 116.84 0)
+    (property "Sheetname" "Ti Board" (at 302.895 132.715 0)
       (effects (font (size 2.5 2.5) bold) (justify left bottom))
     )
-    (property "Sheetfile" "Ti_Board.kicad_sch" (at 257.81 140.97 0)
+    (property "Sheetfile" "Ti_Board.kicad_sch" (at 273.685 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (pin "CAN" input (at 298.45 118.11 90)
+    (pin "CAN" input (at 314.325 133.35 90)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 5a8591c4-69bf-45f6-8fb5-592199a0895c)
     )
-    (pin "To Dash" input (at 294.64 118.11 90)
+    (pin "To Dash" input (at 310.515 133.35 90)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 065549b2-0cc7-412b-8ad0-d75f4c22af73)
     )
-    (pin "Break Sensor Input" input (at 257.81 129.54 180)
+    (pin "Break Sensor Input" input (at 273.685 144.78 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid c1be5f24-3c08-4f4b-ac1c-0c1d5917bf38)
     )
-    (pin "CAN from Sevcon" input (at 257.81 125.73 180)
+    (pin "CAN from Sevcon" input (at 273.685 140.97 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 1d517238-50ea-4d4e-8ba2-f9f91c2feffb)
     )
-    (pin "Break Light" input (at 257.81 121.92 180)
+    (pin "Break Light" input (at 273.685 137.16 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid c4b8b4fd-2c16-448f-9e43-213187adf0cd)
     )
+    (pin "GND" input (at 307.34 133.35 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 7afbc2d8-1b21-42c9-8097-d8a2aa7cea93)
+    )
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3" (page "2"))
       )
     )
@@ -3606,11 +3693,11 @@
     (property "Sheetfile" "Battery_High.kicad_sch" (at 21.59 265.43 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (pin "STDWN_CT_OUT2" input (at 52.07 237.49 90)
+    (pin "STDWN_CT_OUT2" input (at 54.61 237.49 90)
       (effects (font (size 0.75 0.75)) (justify right))
       (uuid 8f2820af-0714-4899-ac5a-89a777dae2c4)
     )
-    (pin "GND" input (at 59.69 237.49 90)
+    (pin "GND" input (at 52.705 237.49 90)
       (effects (font (size 1 1)) (justify right))
       (uuid 785ce0da-9d2f-4cb0-a25a-c37fc2bb70f7)
     )
@@ -3663,7 +3750,7 @@
       (uuid 582a2225-c3b6-4ca9-90a5-45d900e29db2)
     )
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3" (page "4"))
       )
     )
@@ -3703,8 +3790,12 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 603d68d5-608d-4583-9eda-524e53736cec)
     )
+    (pin "GND" input (at 282.575 102.87 270)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 564f4643-f516-4945-92b4-0616a534de91)
+    )
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3" (page "3"))
       )
     )
@@ -3741,7 +3832,7 @@
       (uuid a62c4cab-eab6-4e84-8d1f-31206c493fa6)
     )
     (instances
-      (project "Car_TractiveSystem_v2"
+      (project "Car_TractiveSystem_MAIN"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3" (page "6"))
       )
     )
