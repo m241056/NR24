@@ -753,6 +753,10 @@
     (uuid f52467ab-9693-4ce0-b1c7-f3b6d3719174)
   )
 
+  (wire (pts (xy 184.15 102.87) (xy 184.15 129.54))
+    (stroke (width 0) (type default))
+    (uuid 004bfe78-f9ff-42f2-af67-b42587269ae4)
+  )
   (wire (pts (xy 222.25 31.75) (xy 222.25 55.88))
     (stroke (width 0) (type default))
     (uuid 01df4ef8-0c1e-410e-87b9-4f4b79ddd2b6)
@@ -818,10 +822,6 @@
     (uuid 409c6a80-6746-4a37-8e7f-30cbce56bee0)
   )
 
-  (wire (pts (xy 184.15 102.87) (xy 184.15 129.54))
-    (stroke (width 0) (type default))
-    (uuid 41944136-3f0d-4b0c-a82e-b22373fbe97f)
-  )
   (wire (pts (xy 217.17 35.56) (xy 212.09 35.56))
     (stroke (width 0) (type default))
     (uuid 47620463-ad2f-4567-a8bb-495918003c37)
@@ -1063,46 +1063,45 @@
     (uuid fe17c299-00b0-4314-9472-2c5bb56cac1f)
   )
 
+  (text "Dash +12V" (at 182.245 111.76 0)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 116d6aa3-54ef-4f85-af14-d5e972c0a4e4)
+  )
+  (text "12V High" (at 206.375 57.15 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 195b6afc-b337-41b7-b738-12c67a80e6f6)
+  )
+  (text "Rocker 3" (at 130.81 80.645 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 365d09c9-3e14-43ec-9ba0-a86be8f23119)
+  )
   (text "|\\--/|\n| o_o |\n \\_ ^_/" (at 12.7 27.94 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 384f6d12-3834-4b4e-82a0-7bd49b648837)
+  )
+  (text "12V High" (at 216.535 46.355 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4978026b-a505-49a1-ae59-2c69234e262b)
+  )
+  (text "Rocker 1" (at 127 74.93 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 7f5e7766-174c-4fc2-9f12-213605034a34)
+  )
+  (text "Dash Ground" (at 194.31 120.65 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a5f85d4e-64b3-4696-ab25-fafb2967774d)
+  )
+  (text "Rocker 2" (at 106.68 78.105 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid cd709778-2c12-4a6d-b06f-8a3850a517c5)
   )
   (text "DASH" (at 134.62 58.42 0)
     (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
     (uuid eab13f0d-5dab-4a1a-97da-82c0fbc6b635)
   )
-
-  (label "Dash +12V" (at 184.15 119.38 0) (fields_autoplaced)
+  (text "12V High" (at 224.155 34.29 90)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 0dde47c5-a8af-40b7-a8b7-d9b15c71948f)
-  )
-  (label "Rocker 2" (at 107.95 76.2 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 2c5fb111-ab15-4307-8714-6b1347bbeaa5)
-  )
-  (label "Rocker 3" (at 132.08 80.01 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 2e16abcd-ac5c-42f6-9587-b627e771aa83)
-  )
-  (label "12V High" (at 207.01 55.88 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 3b0e9b72-cc4a-4aa6-8586-5c906bbd7822)
-  )
-  (label "12V High" (at 224.79 33.02 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 612cd0e3-aada-4a77-a184-46c6a156c095)
-  )
-  (label "Rocker 1" (at 128.27 76.2 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 82f2915d-24e4-4c28-b12a-0ffb33144e52)
-  )
-  (label "Dash GND" (at 187.96 121.92 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 9a85d743-ccdd-4ab5-9040-f66bc64e1c0e)
-  )
-  (label "12V High" (at 217.17 44.45 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid d921ff68-0fbd-414c-8d9d-ac57eb37a30d)
+    (uuid fac1d442-e672-43c2-a269-d2e345a6415a)
   )
 
   (hierarchical_label "Battery Lights" (shape input) (at 231.14 58.42 0) (fields_autoplaced)
@@ -1148,12 +1147,12 @@
     (pin "1" (uuid 4b577692-5aee-4506-893a-a32651d1c2bb))
     (pin "2" (uuid 9e9d35e3-9024-4dce-80eb-96f4902eb62a))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA3") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "LA4") (unit 1)
+          (reference "LA9") (unit 1)
         )
       )
     )
@@ -1177,12 +1176,12 @@
     (pin "1" (uuid b1ed6c20-2e0b-4989-92f9-a860dd6c2184))
     (pin "2" (uuid 231dcb64-0cb3-4964-b9c4-c1749edbb8ca))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW5") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "SW5") (unit 1)
+          (reference "SW8") (unit 1)
         )
       )
     )
@@ -1206,12 +1205,12 @@
     (pin "1" (uuid 6d4e5ab8-9f95-4905-88e3-29625160d177))
     (pin "2" (uuid 0776d98b-1d4f-4740-ac1e-35fdf5121a82))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA2") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "LA2") (unit 1)
+          (reference "LA6") (unit 1)
         )
       )
     )
@@ -1235,12 +1234,12 @@
     (pin "1" (uuid d5101868-b3d4-4c23-9751-80c99ae8202f))
     (pin "2" (uuid 032bfbef-9435-4f44-987a-a51cbe35794f))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA2") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "LA9") (unit 1)
+          (reference "LA5") (unit 1)
         )
       )
     )
@@ -1267,12 +1266,12 @@
     (pin "7" (uuid b2ce73e3-4c19-4ab2-9158-33de4c6b33a2))
     (pin "8" (uuid facea6d1-2799-4a41-a54d-9fdf98c10ed6))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW2") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "SW2") (unit 1)
+          (reference "SW6") (unit 1)
         )
       )
     )
@@ -1296,12 +1295,12 @@
     (pin "1" (uuid 34d70b1d-6e6b-4442-9da5-58465e8d1716))
     (pin "2" (uuid c62c8c27-12c2-4ac5-b85e-124bafdae200))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA5") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "LA3") (unit 1)
+          (reference "LA8") (unit 1)
         )
       )
     )
@@ -1325,12 +1324,12 @@
     (pin "1" (uuid 86404ae6-4cc1-4446-a07a-029873237b5a))
     (pin "2" (uuid 348cc875-fc37-48fd-b114-aa316234edc2))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA1") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "LA1") (unit 1)
+          (reference "LA7") (unit 1)
         )
       )
     )
@@ -1354,12 +1353,12 @@
     (pin "1" (uuid 11d50594-7ba5-4b70-bf7c-52c0908f864e))
     (pin "2" (uuid d9e70c18-72f7-4434-a5ad-7b9864a02eb8))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW6") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "SW6") (unit 1)
+          (reference "SW7") (unit 1)
         )
       )
     )
@@ -1383,12 +1382,12 @@
     (pin "1" (uuid c5a258cd-1b7e-4020-8a4f-3c05d3c55ae4))
     (pin "2" (uuid 9ca3ec21-2a6c-42b3-9250-aed44d17b8d7))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA2") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "LA7") (unit 1)
+          (reference "LA3") (unit 1)
         )
       )
     )
@@ -1397,7 +1396,7 @@
   (symbol (lib_id "NR24_Car:AVR-TPI-6") (at 156.21 90.17 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d217d307-de78-4a05-aaad-a89e26d7a338)
-    (property "Reference" "J9" (at 156.845 104.14 0)
+    (property "Reference" "J15" (at 156.845 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "AEM Dash" (at 156.21 78.74 0)
@@ -1422,9 +1421,9 @@
     (pin "8" (uuid 24c09278-8d88-4e2f-b4cc-1020d5f83833))
     (pin "9" (uuid 9fbbf5ef-17e1-40df-98b7-92dba254de75))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "J9") (unit 1)
+          (reference "J15") (unit 1)
         )
       )
     )
@@ -1448,12 +1447,12 @@
     (pin "1" (uuid 7fd16d04-53a4-472b-a2e1-3b9ddb792633))
     (pin "2" (uuid 3fc4e58b-7978-4144-a634-17a876b767e1))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "LA2") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/62b4fa84-4530-4bff-bc03-eb6ea850cb52"
-          (reference "LA8") (unit 1)
+          (reference "LA4") (unit 1)
         )
       )
     )

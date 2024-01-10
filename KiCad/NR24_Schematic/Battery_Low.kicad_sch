@@ -968,25 +968,25 @@
     (uuid f601feaa-3e07-43f9-aa56-bc4b887c4712)
   )
 
-  (label "AMS Fault" (at 158.75 119.38 0) (fields_autoplaced)
+  (text "CAN_Low" (at 86.36 96.52 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 763559fe-5d43-437e-ad25-2fd38d8f74fa)
+    (uuid 0f0aee49-d9a3-42e1-bf5f-299884076742)
   )
-  (label "CAN_Ground" (at 87.63 92.71 0) (fields_autoplaced)
+  (text "CAN_Ground" (at 86.36 92.71 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 76f6b493-e101-4edf-afef-ad6220235c15)
+    (uuid 428ca5ef-a7f1-4cce-a387-e5539eb0decc)
   )
-  (label "CAN_Low" (at 87.63 96.52 0) (fields_autoplaced)
+  (text "AMS Fault" (at 170.815 119.38 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid b3ea43c1-6ecb-4d56-9990-de73681937ef)
+    (uuid 62dd2d9d-16e5-4eb4-9046-1e210808c41a)
   )
-  (label "STDWN CT" (at 183.515 111.76 0) (fields_autoplaced)
+  (text "SHTDWN CRCT" (at 184.15 111.76 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid e2722305-96db-4596-8678-b15cf9d89a30)
+    (uuid e614d638-793a-4436-b705-23cf8598352d)
   )
-  (label "CAN_High" (at 87.63 100.33 0) (fields_autoplaced)
+  (text "CAN_High" (at 86.36 100.33 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid f8fade72-5553-44dc-bde4-12ff50cde421)
+    (uuid f483f9d8-8451-47a3-92d7-f3c9f47d8129)
   )
 
   (global_label "Into Battery AIR Loop" (shape input) (at 180.34 111.76 180) (fields_autoplaced)
@@ -1052,12 +1052,12 @@
     (pin "1" (uuid a002e5ef-ac3b-4a14-a057-1bc33957f09d))
     (pin "2" (uuid ee8ebdec-df58-4a45-920b-62c4c7fda996))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
           (reference "BT3") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/0f310f4a-0260-43da-aff0-c6bb29799d15"
-          (reference "BT1") (unit 1)
+          (reference "BT2") (unit 1)
         )
       )
     )
@@ -1099,12 +1099,12 @@
     (pin "8" (uuid 8fe87ed1-8b6a-4594-a52c-84cfe4a056f3))
     (pin "9" (uuid d0f14df2-40ac-4afb-84cb-b9a682fc85fb))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "U?") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/0f310f4a-0260-43da-aff0-c6bb29799d15"
-          (reference "U5") (unit 1)
+          (reference "U8") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
           (reference "U3") (unit 1)
@@ -1140,12 +1140,12 @@
     (pin "8" (uuid 4b08246a-6671-4e77-a422-f518d0c876a3))
     (pin "9" (uuid bea4da5d-d9bb-4151-a529-dfe8b71795d8))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
           (reference "RL1") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/0f310f4a-0260-43da-aff0-c6bb29799d15"
-          (reference "RL4") (unit 1)
+          (reference "RL3") (unit 1)
         )
       )
     )
@@ -1175,7 +1175,7 @@
     (pin "1" (uuid 6f3ec9b9-4707-4c0e-b635-4f248a7e2091))
     (pin "2" (uuid 4c37fc26-47c4-4d86-ae60-5e99ce86079a))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/600c7e11-1cec-4d55-8384-7f41b96b4c2b"
           (reference "D7") (unit 1)
         )
@@ -1204,7 +1204,7 @@
     (pin "1" (uuid 93caa377-a3e5-4c65-b9be-ca689af99724))
     (pin "2" (uuid 50d1c942-a86c-4f38-9c39-03d87629be5b))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "SW?") (unit 1)
         )
@@ -1212,7 +1212,7 @@
           (reference "SW10") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/0f310f4a-0260-43da-aff0-c6bb29799d15"
-          (reference "SW12") (unit 1)
+          (reference "SW11") (unit 1)
         )
       )
     )

@@ -2041,10 +2041,6 @@
     (stroke (width 0) (type default))
     (uuid 21bc4de6-2033-49ce-a344-a7facfe382b9)
   )
-  (wire (pts (xy 182.88 50.8) (xy 182.88 62.23))
-    (stroke (width 0) (type default))
-    (uuid 22e0743d-bcf7-48f3-8991-d2fcdd790dd6)
-  )
   (wire (pts (xy 157.48 50.8) (xy 157.48 59.69))
     (stroke (width 0) (type default))
     (uuid 23733b2c-a8b5-4ed6-a1dc-47c09217a48a)
@@ -2232,6 +2228,10 @@
   (wire (pts (xy 157.48 50.8) (xy 160.02 50.8))
     (stroke (width 0) (type default))
     (uuid 6c4e199d-d6fc-40e8-93e8-cf99e66c3898)
+  )
+  (wire (pts (xy 182.88 50.8) (xy 182.88 62.23))
+    (stroke (width 0) (type default))
+    (uuid 6cd74b4d-6885-4daa-8200-c135289b0cf9)
   )
   (wire (pts (xy 95.25 157.48) (xy 96.52 157.48))
     (stroke (width 0) (type default))
@@ -2608,84 +2608,73 @@
     (effects (font (face "Britannic Bold") (size 1.5 1.5)) (justify left bottom))
     (uuid 0c8a27de-708d-450b-8419-82e2f2310bbd)
   )
+  (text "BLK" (at 139.065 81.915 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4146105f-dcc9-41f5-a763-aabb5c62ed3d)
+  )
+  (text "GRN" (at 172.085 81.915 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5584aa0b-6291-4c88-b5d5-6bfc2d591906)
+  )
+  (text "CAN Bus" (at 288.925 133.985 0)
+    (effects (font (size 2 2)) (justify left bottom))
+    (uuid 62d0911c-e850-4e85-afaa-980d7d58a40e)
+  )
+  (text "GND" (at 227.33 180.34 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6568bc1c-4b87-4ab7-b578-31989d3a1cae)
+  )
   (text "Lights Logic on the Dash AND Break Light (to be continued)"
     (at 91.44 24.13 0)
     (effects (font (size 3 3) (thickness 0.4) bold) (justify left bottom))
     (uuid 6ae6a4b5-8bb4-4967-9029-0488ab7a6395)
+  )
+  (text "Ready to Drive Speaker" (at 229.87 177.165 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6f76cf0c-4810-470f-aa01-4ac132753293)
+  )
+  (text "BLK" (at 164.465 81.28 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 711fe488-c3a3-4bc2-827d-1d7add605d55)
+  )
+  (text "BLK" (at 112.395 81.915 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 72e08ada-fb83-4bef-9ca6-853779d4211e)
+  )
+  (text "brown wire" (at 184.15 57.15 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 85d06fd7-7978-40ba-8d00-726116880f65)
+  )
+  (text "BLCK GND" (at 210.82 61.595 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8d03841a-91c0-490a-b7ab-431a728c23ca)
   )
   (text "Pull Down Circuit to Convert\n24V from Sevcon -> 12V\n"
     (at 317.5 102.87 0)
     (effects (font (size 2 2) bold) (justify left bottom))
     (uuid a3d11ac1-795a-4553-8516-f60df3eaabca)
   )
+  (text "GRN" (at 146.685 81.915 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b8a1995a-614f-4f7a-a80d-6f1bff3b0fbe)
+  )
+  (text "GRN" (at 121.285 82.55 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b8c62804-4d23-40bb-86e6-c2ea55389bbb)
+  )
   (text "XBee" (at 322.58 248.92 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid ccee0953-7320-457a-a92b-cc2ee196579f)
   )
+  (text "FWD BTTN (Black, Green)\n\nNTL BTTN (GRN BLCK)\n\nROCKER SWITCH (Black, Yellow)\n\nEMCY BTTN (Black, Green)"
+    (at 189.865 279.4 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f332d8f6-fd64-4468-89bf-59d69ad217bf)
+  )
 
-  (label "EMCY BTTN (Black, Green)" (at 189.23 279.4 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 004be7dd-1a4d-41a0-9d8e-1297f12bcf78)
-  )
-  (label "Ready to Drive Speaker" (at 228.6 177.8 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 050efb31-04a5-4985-838b-5aa9f17654dd)
-  )
   (label "Dash Connection" (at 195.58 262.89 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 070ce4e7-fb4a-4d50-9aea-5f8a43bb7444)
-  )
-  (label "BLK" (at 139.7 78.74 270) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid 26602c47-9cca-4a7b-b1d9-19f603953003)
-  )
-  (label "GRN" (at 121.92 82.55 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 2d6cf98e-c84d-4e07-b62c-03b79240098d)
-  )
-  (label "BLCK GND" (at 210.82 62.23 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 71125ca0-e1e4-4c20-ab0b-c06d1f691174)
-  )
-  (label "NTL BTTN (GRN BLCK)" (at 189.23 270.51 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 9185958e-7d3d-4969-8d15-4080022d8cec)
-  )
-  (label "GRN" (at 172.72 82.55 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 95febd63-fa41-437b-a6c2-d1ce4cb8fd59)
-  )
-  (label "FWD BTTN (Black, Green)" (at 189.23 266.7 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 9c435d71-ab75-4e09-95a8-e459d7c41606)
-  )
-  (label "CAN BUS" (at 288.29 133.35 0) (fields_autoplaced)
-    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
-    (uuid aa33ffd7-c891-4d57-9389-4f549ed01bef)
-  )
-  (label "BLK" (at 113.03 78.74 270) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid ab45049d-c88f-42d0-9617-07143dbae453)
-  )
-  (label "brown wire" (at 182.88 57.15 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid b40ba03e-f786-4dfd-9a86-5180025558b0)
-  )
-  (label "ROCKER SWITCH (Black, Yellow)" (at 189.23 275.59 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid c83f79d7-82b7-473e-9966-13a70dcb51d6)
-  )
-  (label "BLK" (at 165.1 78.74 270) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid cad7ffc0-c014-4221-be6a-ef8247c6b9f2)
-  )
-  (label "GRN" (at 147.32 82.55 90) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid f2562612-9395-4dfc-a9d7-b32a9709393b)
-  )
-  (label "GND" (at 227.33 180.34 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid faca114d-9326-4019-b9d5-ff1434cfe968)
   )
 
   (global_label "BoosterXL" (shape input) (at 127 147.32 0) (fields_autoplaced)
@@ -3119,7 +3108,7 @@
     (pin "2" (uuid 64f12e43-e8bf-4b08-a8b7-edf2d49c0e0b))
     (pin "3" (uuid cac1090b-297c-46fa-bef5-e8ff6bbc2d25))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "Q3") (unit 1)
         )
@@ -3135,7 +3124,7 @@
   (symbol (lib_id "Diode:1N5402") (at 172.72 66.04 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2fedb4ad-d155-40ad-b317-a9702f596b29)
-    (property "Reference" "D3" (at 175.26 64.77 90)
+    (property "Reference" "D2" (at 175.26 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N5402" (at 175.26 67.31 90)
@@ -3156,9 +3145,9 @@
     (pin "1" (uuid ce0e8341-d156-46f8-adc2-acd638c73cbd))
     (pin "2" (uuid b35d17fd-1ba3-4651-9973-ca52e0bd537a))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "D3") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3205,12 +3194,12 @@
     (pin "39" (uuid 079660e7-ca94-4e17-80c1-7a14a3be9a4f))
     (pin "40" (uuid f767e604-9dd5-47e6-998b-afa4f5cdca8b))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "J8") (unit 1)
+          (reference "J13") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3240,7 +3229,7 @@
     (pin "2" (uuid d95f03ef-66e3-42be-b96a-e48f7980ca8f))
     (pin "3" (uuid c5e68d9a-8f65-4fba-b3f6-f2dc6a7d8939))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "Q1") (unit 1)
         )
@@ -3289,12 +3278,12 @@
     (pin "79" (uuid f16bf840-f868-4934-8af6-36dd4dff68ae))
     (pin "80" (uuid 9741eacd-3ebc-4c65-b0b7-f8f8342b7476))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "J13") (unit 1)
+          (reference "J9") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3341,12 +3330,12 @@
     (pin "8" (uuid 0c96a51a-2e55-4d53-bf68-e41cfe46313d))
     (pin "9" (uuid 97349c01-378d-419c-881e-ad555cecfc72))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "J10") (unit 1)
+          (reference "J6") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3393,12 +3382,12 @@
     (pin "8" (uuid 13632cef-d75e-435c-a75e-538c60565b21))
     (pin "9" (uuid dcf3146d-419e-48bc-a61b-4dd2a5a87ca7))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "J14") (unit 1)
+          (reference "J12") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3445,12 +3434,12 @@
     (pin "69" (uuid 0cabfabc-45af-4c4b-9fbd-e5fa0c68a753))
     (pin "70" (uuid c2222908-db8f-4107-93c6-67baadb961dc))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "J12") (unit 1)
+          (reference "J8") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3464,7 +3453,7 @@
   (symbol (lib_id "Connector_Audio:SpeakON_NL2") (at 245.11 190.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5ff1bdc3-e214-4c43-99f0-753e555b8015)
-    (property "Reference" "J6" (at 251.46 189.23 0)
+    (property "Reference" "J11" (at 251.46 189.23 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SpeakON_NL2" (at 251.46 191.77 0)
@@ -3479,9 +3468,9 @@
     (pin "1-" (uuid 0caa3e06-cda2-464b-9f96-b6c28e449c16))
     (pin "1+" (uuid 57e10995-b667-4913-8d62-6a3af671f4c9))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "J6") (unit 1)
+          (reference "J11") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3528,12 +3517,12 @@
     (pin "39" (uuid 5d8769ba-c44c-43d8-9b48-6b72613dac50))
     (pin "40" (uuid 18692bce-ecd9-4167-9b27-317b802eb2d6))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "J11") (unit 1)
+          (reference "J7") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3563,7 +3552,7 @@
     (pin "2" (uuid 86c268e2-4521-4374-a74f-add83b1a3017))
     (pin "3" (uuid bcff65cd-ffc2-4ae4-977b-e28d02fde923))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "Q2") (unit 1)
         )
@@ -3579,7 +3568,7 @@
   (symbol (lib_id "Device:R_US") (at 121.92 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7aeb8a5e-fc67-4c4b-8e9b-2b89dd2943fb)
-    (property "Reference" "R2" (at 124.46 73.66 0)
+    (property "Reference" "R8" (at 124.46 73.66 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K Ω 5%" (at 124.46 76.2 0)
@@ -3594,9 +3583,9 @@
     (pin "1" (uuid aeaeb2fe-1c5a-4488-800f-ad3963506d4a))
     (pin "2" (uuid 37162c8b-83d9-4cd7-9636-3655e7793ce4))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "R2") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3610,7 +3599,7 @@
   (symbol (lib_id "Device:R_US") (at 130.81 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ef6da54-e711-49e0-87ae-89af5b092b37)
-    (property "Reference" "R4" (at 133.35 53.34 0)
+    (property "Reference" "R2" (at 133.35 53.34 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K Ω 5%" (at 133.35 55.88 0)
@@ -3625,9 +3614,9 @@
     (pin "1" (uuid bd0775de-d4c4-45c1-8855-2d9a5498b682))
     (pin "2" (uuid ab609250-b03f-4d34-90a2-1165fa7b88ed))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "R4") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3657,12 +3646,12 @@
     (pin "2" (uuid d357d51d-dca6-4802-8649-f8c8d145590c))
     (pin "3" (uuid 375a16cb-7474-4b57-8062-e7d60cb3d428))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "J5") (unit 1)
+          (reference "J10") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3676,7 +3665,7 @@
   (symbol (lib_id "Device:R_US") (at 223.52 58.42 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8c39ce3a-2106-4b59-b73e-f7a42b680a9d)
-    (property "Reference" "R4" (at 226.06 57.15 0)
+    (property "Reference" "R3" (at 226.06 57.15 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10K Ω 5%" (at 226.06 59.69 0)
@@ -3691,9 +3680,9 @@
     (pin "1" (uuid 6d10b100-e87a-44f5-a936-4603e826e88e))
     (pin "2" (uuid 785ef0a9-f1eb-41f1-8e04-102c9ac6c148))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "R4") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3707,7 +3696,7 @@
   (symbol (lib_id "Device:R_US") (at 172.72 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 926cdcb6-8b90-4610-947f-2872e6e07a6e)
-    (property "Reference" "R2" (at 175.26 72.39 0)
+    (property "Reference" "R7" (at 175.26 72.39 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K Ω 5%" (at 175.26 74.93 0)
@@ -3722,9 +3711,9 @@
     (pin "1" (uuid a2da8d44-4f4d-4cb7-ae83-430a879b0195))
     (pin "2" (uuid a8973cec-c626-4c03-8235-b30e6b0a1594))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "R2") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3738,7 +3727,7 @@
   (symbol (lib_id "Device:R_US") (at 205.74 67.31 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a0c0f468-d4f4-4d7d-90fd-88ba9721d5cd)
-    (property "Reference" "R4" (at 203.2 68.58 0)
+    (property "Reference" "R5" (at 203.2 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K Ω 5%" (at 203.2 66.04 0)
@@ -3753,9 +3742,9 @@
     (pin "1" (uuid 69e344e8-9497-439f-94c7-f325a24a6f3d))
     (pin "2" (uuid f88c77cf-7eaa-4785-8388-a11591159d11))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "R4") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3810,12 +3799,12 @@
     (pin "7" (uuid 9293540f-6da3-45ea-9758-e4e16dbdfba2))
     (pin "9" (uuid 0508de25-5b07-4d21-8399-688942eaa59c))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3"
           (reference "J5") (unit 1)
         )
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "J7") (unit 1)
+          (reference "J14") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3829,7 +3818,7 @@
   (symbol (lib_id "Diode:1N5402") (at 147.32 66.04 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ac7f7dcc-cd6e-4cc8-a290-eb2f75291a39)
-    (property "Reference" "D3" (at 149.86 64.77 90)
+    (property "Reference" "D1" (at 149.86 64.77 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N5402" (at 149.86 67.31 90)
@@ -3850,9 +3839,9 @@
     (pin "1" (uuid 1b4bb800-6f50-4649-9d34-4913442827cb))
     (pin "2" (uuid afd04038-77b5-4766-9a10-44d18c0564f0))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "D3") (unit 1)
+          (reference "D1") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3866,7 +3855,7 @@
   (symbol (lib_id "Device:R_US") (at 147.32 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c6736cda-8fc7-4ebc-89d5-fc584579f1ef)
-    (property "Reference" "R2" (at 149.86 72.39 0)
+    (property "Reference" "R6" (at 149.86 72.39 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K Ω 5%" (at 149.86 74.93 0)
@@ -3881,9 +3870,9 @@
     (pin "1" (uuid 6a719733-9ec6-4409-a9ca-7bd3acd1e235))
     (pin "2" (uuid c7b5e9d0-50a1-477f-b982-c57359b5af1e))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "R2") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3897,7 +3886,7 @@
   (symbol (lib_id "Device:R_US") (at 107.95 59.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c6fc3fa7-9203-449b-9aa0-3bdcca83c167)
-    (property "Reference" "R3" (at 106.68 57.15 0)
+    (property "Reference" "R4" (at 106.68 57.15 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K Ω 5%" (at 109.22 57.15 0)
@@ -3912,9 +3901,9 @@
     (pin "1" (uuid 68940db5-d03b-447c-a74e-0b0c96d3e967))
     (pin "2" (uuid 997ebe0d-4e06-433d-8b9b-dbe969e62218))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "R3") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3928,7 +3917,7 @@
   (symbol (lib_id "Device:R_US") (at 163.83 50.8 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d97fe60b-1a13-4e2e-a932-d5baf2c8d079)
-    (property "Reference" "R4" (at 162.56 48.26 0)
+    (property "Reference" "R1" (at 162.56 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K Ω 5%" (at 165.1 48.26 0)
@@ -3943,9 +3932,9 @@
     (pin "1" (uuid 719310eb-08f0-48fe-a3e1-b5bfda892c43))
     (pin "2" (uuid 012df618-b271-476a-a992-c4c07c0ff95d))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
-          (reference "R4") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
       (project "Ti_Board"
@@ -3980,7 +3969,7 @@
     (pin "1" (uuid 524543de-743e-469d-bb65-9b461eae926a))
     (pin "2" (uuid 2cf75ea6-d2f5-4c57-b31d-e1c68687a9aa))
     (instances
-      (project "Car_TractiveSystem_MAIN"
+      (project "NR24_Schematic"
         (path "/588b5c14-1813-4e1d-9dbe-940839ecebe3/42103732-fa28-467e-b394-54af70cbf903"
           (reference "D3") (unit 1)
         )
